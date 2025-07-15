@@ -3,169 +3,169 @@ Report Estrazione Link da thisnot.business
 
 Pagina Evento: https://thisnot.business/player.php?id=TNTSP_ARG
   Dettagli: Categoria='CALCIO', Evento='21:30 Deportivo Riestra - Lanus', Canale='TNT Sports (VPN Argentina)'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd&key_id=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd&key_id=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a
 
 Pagina Evento: https://thisnot.business/player.php?id=ESPNP_AR
   Dettagli: Categoria='CALCIO', Evento='00:00 Banfield - Defensa y Justicia', Canale='ESPN (VPN Argentina)'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd&key_id=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd&key_id=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257
 
 Pagina Evento: https://thisnot.business/player.php?id=ESPNP_AR
   Dettagli: Categoria='CALCIO', Evento='02:30 Union Santa Fe - Estudiantes', Canale='ESPN (VPN Argentina)'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd&key_id=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd&key_id=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257
 
 Pagina Evento: https://thisnot.business/player.php?id=TNTSP_ARG
   Dettagli: Categoria='CALCIO', Evento='02:30 Velez Sarsfield - Tigre', Canale='TNT Sports (VPN Argentina)'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd&key_id=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd&key_id=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a
 
 Pagina Evento: https://thisnot.business/player.php?id=Rai2
   Dettagli: Categoria='CALCIO', Evento='21:00 Norvegia - Italia', Canale='Rai'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
 
 Pagina Evento: https://thisnot.business/player.php?id=RTE2
   Dettagli: Categoria='CALCIO', Evento='21:00 Norvegia - Italia', Canale='RTE'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
 
 Pagina Evento: https://thisnot.business/player.php?id=RaiSport
   Dettagli: Categoria='CALCIO', Evento='21:00 Svezia - Inghilterra', Canale='Rai'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 
 Pagina Evento: https://thisnot.business/player.php?id=RTE2
   Dettagli: Categoria='CALCIO', Evento='21:00 Svezia - Inghilterra', Canale='RTE'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
 
 Pagina Evento: https://thisnot.business/player.php?id=RaiSport
   Dettagli: Categoria='CALCIO', Evento='21:00 Spagna - Svizzera', Canale='Rai'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 
 Pagina Evento: https://thisnot.business/player.php?id=RTE2
   Dettagli: Categoria='CALCIO', Evento='21:00 Spagna - Svizzera', Canale='RTE'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
 
 Pagina Evento: https://thisnot.business/player.php?id=RaiSport
   Dettagli: Categoria='CALCIO', Evento='21:00 Francia - Germania', Canale='Rai'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 
 Pagina Evento: https://thisnot.business/player.php?id=RTE2
   Dettagli: Categoria='CALCIO', Evento='21:00 Francia - Germania', Canale='RTE'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
 
 Pagina Evento: https://thisnot.business/player.php?id=TNTSP_ARG
   Dettagli: Categoria='CALCIO', Evento='21:30 Deportivo Riestra - Lanus', Canale='TNT Sports (VPN Argentina)'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd&key_id=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd&key_id=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a
 
 Pagina Evento: https://thisnot.business/player.php?id=ESPNP_AR
   Dettagli: Categoria='CALCIO', Evento='00:00 Banfield - Defensa y Justicia', Canale='ESPN (VPN Argentina)'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd&key_id=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd&key_id=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257
 
 Pagina Evento: https://thisnot.business/player.php?id=ESPNP_AR
   Dettagli: Categoria='CALCIO', Evento='02:30 Union Santa Fe - Estudiantes', Canale='ESPN (VPN Argentina)'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd&key_id=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd&key_id=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257
 
 Pagina Evento: https://thisnot.business/player.php?id=TNTSP_ARG
   Dettagli: Categoria='CALCIO', Evento='02:30 Velez Sarsfield - Tigre', Canale='TNT Sports (VPN Argentina)'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd&key_id=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd&key_id=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a
 
 Pagina Evento: https://thisnot.business/player.php?id=Rai2
   Dettagli: Categoria='CALCIO', Evento='21:00 Norvegia - Italia', Canale='Rai'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
 
 Pagina Evento: https://thisnot.business/player.php?id=RTE2
   Dettagli: Categoria='CALCIO', Evento='21:00 Norvegia - Italia', Canale='RTE'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
 
 Pagina Evento: https://thisnot.business/player.php?id=RaiSport
   Dettagli: Categoria='CALCIO', Evento='21:00 Svezia - Inghilterra', Canale='Rai'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 
 Pagina Evento: https://thisnot.business/player.php?id=RTE2
   Dettagli: Categoria='CALCIO', Evento='21:00 Svezia - Inghilterra', Canale='RTE'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
 
 Pagina Evento: https://thisnot.business/player.php?id=RaiSport
   Dettagli: Categoria='CALCIO', Evento='21:00 Spagna - Svizzera', Canale='Rai'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 
 Pagina Evento: https://thisnot.business/player.php?id=RTE2
   Dettagli: Categoria='CALCIO', Evento='21:00 Spagna - Svizzera', Canale='RTE'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
 
 Pagina Evento: https://thisnot.business/player.php?id=RaiSport
   Dettagli: Categoria='CALCIO', Evento='21:00 Francia - Germania', Canale='Rai'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 
 Pagina Evento: https://thisnot.business/player.php?id=RTE2
   Dettagli: Categoria='CALCIO', Evento='21:00 Francia - Germania', Canale='RTE'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
 
 Pagina Evento: https://thisnot.business/player.php?id=Eurosport1IT
   Dettagli: Categoria='CICLISMO', Evento='13:00 Live', Canale='Eurosport'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport1%29/manifest.mpd&key_id=46e559c2f9f645ce8d80c7fa20446bdb&key=597d214d66342ee042bccffeb165e750
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport1%29/manifest.mpd&key_id=46e559c2f9f645ce8d80c7fa20446bdb&key=597d214d66342ee042bccffeb165e750
 
 Pagina Evento: https://thisnot.business/player.php?id=Eurosport2IT
   Dettagli: Categoria='CICLISMO', Evento='13:00 Live', Canale='Eurosport'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport2%29/manifest.mpd&key_id=e8372283a523444c84646c4172b1bc0f&key=969a90e1a1a6424a68fe4b5d776368ec
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport2%29/manifest.mpd&key_id=e8372283a523444c84646c4172b1bc0f&key=969a90e1a1a6424a68fe4b5d776368ec
 
 Pagina Evento: https://thisnot.business/player.php?id=ITA_SportMotoGP
   Dettagli: Categoria='MOTOMONDIALE', Evento='09:00 Moto3 - Prove Libere', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
 
 Pagina Evento: https://thisnot.business/player.php?id=ITA_SportMotoGP
   Dettagli: Categoria='MOTOMONDIALE', Evento='09:50 Moto2 - Prove Libere', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
 
 Pagina Evento: https://thisnot.business/player.php?id=ITA_SportMotoGP
   Dettagli: Categoria='MOTOMONDIALE', Evento='10:45 MotoGP - Prove Libere', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
 
 Pagina Evento: https://thisnot.business/player.php?id=ITA_SportMotoGP
   Dettagli: Categoria='MOTOMONDIALE', Evento='13:15 Moto3 - Prove 1', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
 
 Pagina Evento: https://thisnot.business/player.php?id=ITA_SportMotoGP
   Dettagli: Categoria='MOTOMONDIALE', Evento='14:05 Moto2 - Prove 1', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
 
 Pagina Evento: https://thisnot.business/player.php?id=ITA_SportMotoGP
   Dettagli: Categoria='MOTOMONDIALE', Evento='15:00 MotoGP - Prove', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
 
 Pagina Evento: https://thisnot.business/player.php?id=ITA_SportMotoGP
   Dettagli: Categoria='MOTOMONDIALE', Evento='08:40 Moto3 - Prove 2', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
 
 Pagina Evento: https://thisnot.business/player.php?id=ITA_SportMotoGP
   Dettagli: Categoria='MOTOMONDIALE', Evento='09:25 Moto2 - Prove 2', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
 
 Pagina Evento: https://thisnot.business/player.php?id=ITA_SportMotoGP
   Dettagli: Categoria='MOTOMONDIALE', Evento='10:10 MotoGP - Prove Libere', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
 
 Pagina Evento: https://thisnot.business/player.php?id=ITA_SportMotoGP
   Dettagli: Categoria='MOTOMONDIALE', Evento='10:50 MotoGP - Qualifiche', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
 
 Pagina Evento: https://thisnot.business/player.php?id=ITA_SportMotoGP
   Dettagli: Categoria='MOTOMONDIALE', Evento='12:50 Moto3 - Qualifiche', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
 
 Pagina Evento: https://thisnot.business/player.php?id=ITA_SportMotoGP
   Dettagli: Categoria='MOTOMONDIALE', Evento='13:45 Moto2 - Qualifiche', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
 
 Pagina Evento: https://thisnot.business/player.php?id=ITA_SportMotoGP
   Dettagli: Categoria='MOTOMONDIALE', Evento='15:00 MotoGP - Sprint Race', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
 
 Pagina Evento: https://thisnot.business/player.php?id=ITA_SportMotoGP
   Dettagli: Categoria='MOTOMONDIALE', Evento='11:00 Moto3 - Gara', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
 
 Pagina Evento: https://thisnot.business/player.php?id=ITA_SportMotoGP
   Dettagli: Categoria='MOTOMONDIALE', Evento='12:15 Moto2 - Gara', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
 
 Pagina Evento: https://thisnot.business/player.php?id=ITA_SportMotoGP
   Dettagli: Categoria='MOTOMONDIALE', Evento='14:00 MotoGP - Gara', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-0bgd.onrender.com//proxy/mpd/manifest.m3u8?api_password=Ciuperca12&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
 
