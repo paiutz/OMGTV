@@ -66235,4 +66235,2437 @@ Lost Frequencies; James Blunt	- Melody</desc>
     <category>Animated</category>
     <category>Series</category>
   </programme>
+<channel id="missuniverselatinaelrealitynew">
+    <display-name>Miss Universe Latina, el reality New</display-name>
+  </channel>
+  <channel id="worldclubfriendlyosijekvsjpest">
+    <display-name>World - Club Friendly : Osijek vs Újpest</display-name>
+  </channel>
+  <channel id="uefaconferenceleaguebfcdaugavpilsvsvllazniashkodr">
+    <display-name>UEFA Conference League : BFC Daugavpils vs Vllaznia Shkodër</display-name>
+  </channel>
+  <channel id="uefaeuropaleagueaktobevslegiawarszawa">
+    <display-name>UEFA Europa League : Aktobe vs Legia Warszawa</display-name>
+  </channel>
+  <channel id="uefaconferenceleagueordabasyvstorpedokutaisi">
+    <display-name>UEFA Conference League : Ordabasy vs Torpedo Kutaisi</display-name>
+  </channel>
+  <channel id="uefaconferenceleaguefcsantacolomavsboracbanjaluka">
+    <display-name>UEFA Conference League : FC Santa Coloma vs Borac Banja Luka</display-name>
+  </channel>
+  <channel id="worldclubfriendlyarisvsanorthosis">
+    <display-name>World - Club Friendly : Aris vs Anorthosis</display-name>
+  </channel>
+  <channel id="uefaconferenceleaguepetrocubvsbirkirkara">
+    <display-name>UEFA Conference League : Petrocub vs Birkirkara</display-name>
+  </channel>
+  <channel id="uefaeuropaleaguecfrclujvspaksise">
+    <display-name>UEFA Europa League : CFR Cluj vs Paksi SE</display-name>
+  </channel>
+  <channel id="uefaconferenceleaguekopervseljezniar">
+    <display-name>UEFA Conference League : Koper vs Željezničar</display-name>
+  </channel>
+  <channel id="uefaeuropaleaguehapoelbeershevavslevskisofia">
+    <display-name>UEFA Europa League : Hapoel Be'er Sheva vs Levski Sofia</display-name>
+  </channel>
+  <channel id="uefaeuropaleagueceljevssabah">
+    <display-name>UEFA Europa League : Celje vs Sabah</display-name>
+  </channel>
+  <channel id="uefaconferenceleaguepartizanitiranavsnmmekalju">
+    <display-name>UEFA Conference League : Partizani Tirana vs Nõmme Kalju</display-name>
+  </channel>
+  <channel id="worldclubfriendlybeiktavspetralkaakadmia">
+    <display-name>World - Club Friendly : Beşiktaş vs Petržalka akadémia</display-name>
+  </channel>
+  <channel id="uefawomenseuroswedenvsengland">
+    <display-name>UEFA Women's Euro : Sweden vs England</display-name>
+  </channel>
+  <channel id="worldclubfriendlyfenerbahevsportimonense">
+    <display-name>World - Club Friendly : Fenerbahçe vs Portimonense</display-name>
+  </channel>
+  <channel id="uefaeuropaleaguepartizanvsaeklarnaca">
+    <display-name>UEFA Europa League : Partizan vs AEK Larnaca</display-name>
+  </channel>
+  <channel id="ecuadorseriebindependientejuniorsvsnuevedeoctubre">
+    <display-name>Ecuador - Serie B : Independiente Juniors vs Nueve de Octubre</display-name>
+  </channel>
+  <channel id="copasudamericanauniversidadchilevsguaran">
+    <display-name>Copa Sudamericana : Universidad Chile vs Guaraní</display-name>
+  </channel>
+  <channel id="brazilbrasileirofluminensevscruzeiro">
+    <display-name>Brazil - Brasileirão : Fluminense vs Cruzeiro</display-name>
+  </channel>
+  <channel id="globalsuperleaguecentralstagsvsrangpurriders">
+    <display-name>Global Super League : Central Stags vs Rangpur Riders</display-name>
+  </channel>
+  <channel id="natwestt20blastyorkshirevslancashire">
+    <display-name>NatWest T20 Blast : Yorkshire vs Lancashire</display-name>
+  </channel>
+  <channel id="3rdtestday4westindiesvsaustralia">
+    <display-name>3rd Test | Day 4 : West Indies vs Australia</display-name>
+  </channel>
+  <channel id="hopmancuppapamichaildvsbassolsm">
+    <display-name>HOPMAN CUP : Papamichail D. vs Bassols M.</display-name>
+  </channel>
+  <channel id="hopmancuppaquetcvsvekicd">
+    <display-name>HOPMAN CUP : Paquet C. vs Vekic D.</display-name>
+  </channel>
+  <channel id="hopmancuptsitsipassvsbautistaagutr">
+    <display-name>HOPMAN CUP : Tsitsipas S. vs Bautista-Agut R.</display-name>
+  </channel>
+  <channel id="hopmancupgasquetrvsajdukovicd">
+    <display-name>HOPMAN CUP : Gasquet R. vs Ajdukovic D.</display-name>
+  </channel>
+  <channel id="atpbastadugocarabellicvsvandezandschulpb">
+    <display-name>ATP - BASTAD : Ugo Carabelli C. vs Van De Zandschulp B.</display-name>
+  </channel>
+  <channel id="atpbastadmisolicfvsborgesn">
+    <display-name>ATP - BASTAD : Misolic F. vs Borges N.</display-name>
+  </channel>
+  <channel id="atpbastadcerundolofvsnavonem">
+    <display-name>ATP - BASTAD : Cerundolo F. vs Navone M.</display-name>
+  </channel>
+  <channel id="atpbastadgastonhvsdzumhurd">
+    <display-name>ATP - BASTAD : Gaston H. vs Dzumhur D.</display-name>
+  </channel>
+  <channel id="atpgstaadcomesanafvscarballesbaenar">
+    <display-name>ATP - GSTAAD : Comesana F. vs Carballes Baena R.</display-name>
+  </channel>
+  <channel id="atpgstaadcerundolojmvsgoffind">
+    <display-name>ATP - GSTAAD : Cerundolo J. M. vs Goffin D.</display-name>
+  </channel>
+  <channel id="atpgstaadcazauxavsetcheverrytm">
+    <display-name>ATP - GSTAAD : Cazaux A. vs Etcheverry T. M.</display-name>
+  </channel>
+  <channel id="atpgstaadshevchenkoavsbublika">
+    <display-name>ATP - GSTAAD : Shevchenko A. vs Bublik A.</display-name>
+  </channel>
+  <channel id="atpgstaadpassarofvskymj">
+    <display-name>ATP - GSTAAD : Passaro F. vs Kym J.</display-name>
+  </channel>
+  <channel id="wtahamburgsharmaavstomovav">
+    <display-name>WTA - HAMBURG : Sharma A. vs Tomova V.</display-name>
+  </channel>
+  <channel id="wtahamburgkraussvsbondara">
+    <display-name>WTA - HAMBURG : Kraus S. vs Bondar A.</display-name>
+  </channel>
+  <channel id="wtahamburgparrydvsyastremskad">
+    <display-name>WTA - HAMBURG : Parry D. vs Yastremska D.</display-name>
+  </channel>
+  <channel id="wtahamburgalexandrovaevswernerc">
+    <display-name>WTA - HAMBURG : Alexandrova E. vs Werner C.</display-name>
+  </channel>
+  <channel id="wtaiasicirsteasvsgrachevav">
+    <display-name>WTA - IASI : Cirstea S. vs Gracheva V.</display-name>
+  </channel>
+  <channel id="wtaiasiburilloescorihuelaivswalterts">
+    <display-name>WTA - IASI : Burillo Escorihuela I. vs Waltert S.</display-name>
+  </channel>
+  <channel id="wtaiasibeguivsjimenezkasintsevav">
+    <display-name>WTA - IASI : Begu I. vs Jimenez Kasintseva V.</display-name>
+  </channel>
+  <channel id="wtaiasifettjvscristianj">
+    <display-name>WTA - IASI : Fett J. vs Cristian J.</display-name>
+  </channel>
+  <channel id="wrcrallyestonia">
+    <display-name>WRC: Rally Estonia</display-name>
+  </channel>
+  <channel id="wrcrallyestoniaspecialstage1day1">
+    <display-name>WRC Rally Estonia | Special Stage 1 | Day 1</display-name>
+  </channel>
+  <channel id="speedway2ekstraligalesznovspoznan">
+    <display-name>Speedway: 2.Ekstraliga - Leszno vs Poznan</display-name>
+  </channel>
+  <channel id="speedwaypgeekstraliga12">
+    <display-name>Speedway: PGE Ekstraliga (12)</display-name>
+  </channel>
+  <channel id="autoracingjokersjackpotateldoraspeedway">
+    <display-name>Auto Racing : Joker's Jackpot at Eldora Speedway</display-name>
+  </channel>
+  <channel id="acayoungeagles56muslimibragimovvskurbanaliisabekov">
+    <display-name>ACA Young Eagles 56 : Muslim Ibragimov vs. Kurbanali Isabekov</display-name>
+  </channel>
+  <channel id="pgatourbarracudachampionship">
+    <display-name>PGA Tour Barracuda Championship</display-name>
+  </channel>
+  <channel id="championshipleaguesnookeraaronhillvsgarythomson">
+    <display-name>Championship League Snooker : Aaron Hill vs Gary Thomson</display-name>
+  </channel>
+  <channel id="championshipleaguesnookerxusivsliamhighfield">
+    <display-name>Championship League Snooker : Xu Si vs Liam Highfield</display-name>
+  </channel>
+  <channel id="cflmontrealalouettesvstorontoargonauts">
+    <display-name>CFL : Montreal Alouettes vs Toronto Argonauts</display-name>
+  </channel>
+  <channel id="athleticseuropeanunder23championshipsbergen2025day1">
+    <display-name>Athletics: European Under-23 Championships - Bergen 2025 Day 1</display-name>
+  </channel>
+  <channel id="aflessendonbombersvsgreaterwesternsydney">
+    <display-name>AFL : Essendon Bombers vs Greater Western Sydney</display-name>
+  </channel>
+  <channel id="collegiatesummerbaseballfcblnashuasilverknightsvsworcesterbravehearts">
+    <display-name>Collegiate Summer Baseball FCBL : Nashua Silver Knights vs Worcester Bravehearts</display-name>
+  </channel>
+  <channel id="athletesunlimitedsoftballleaguebanditsvsvolts">
+    <display-name>Athletes Unlimited Softball League : Bandits vs Volts</display-name>
+  </channel>
+  <channel id="nbalasvegassummerleaguemiamiheatvsdetroitpistons">
+    <display-name>NBA Las Vegas Summer League : Miami Heat vs Detroit Pistons</display-name>
+  </channel>
+  <channel id="nbalasvegassummerleaguenewyorkknicksvsindianapacers">
+    <display-name>NBA Las Vegas Summer League : New York Knicks vs Indiana Pacers</display-name>
+  </channel>
+  <channel id="nbalasvegassummerleaguememphisgrizzliesvsatlantahawks">
+    <display-name>NBA Las Vegas Summer League : Memphis Grizzlies vs Atlanta Hawks</display-name>
+  </channel>
+  <channel id="brazillbfwomenourinhoswvssaojosew">
+    <display-name>Brazil LBF Women : Ourinhos W vs Sao Jose W</display-name>
+  </channel>
+  <channel id="nbalasvegassummerleaguecharlottehornetsvssanantoniospurs">
+    <display-name>NBA Las Vegas Summer League : Charlotte Hornets vs San Antonio Spurs</display-name>
+  </channel>
+  <channel id="tourdefranceuciworldtourstage12auchtohautacammountain180km3850m">
+    <display-name>Tour de France UCI World Tour Stage 12 - Auch to Hautacam Mountain | 180 km | 3850 m</display-name>
+  </channel>
+  <channel id="longinesfeijumpingeuropeanchampionshipacorua2025t2025secondcompetitionfirstround">
+    <display-name>Longines FEI Jumping European Championship A Coruña 2025 (T2025): Second Competition. First Round</display-name>
+  </channel>
+  <channel id="liveracingfromhamiltonleicesterepsomkillarneyandleopardstown">
+    <display-name>Live racing from Hamilton, Leicester, Epsom, Killarney and Leopardstown</display-name>
+  </channel>
+  <channel id="liveracingfromaroundtheuk">
+    <display-name>Live racing from around the UK</display-name>
+  </channel>
+  <channel id="horseracingsaratogalive">
+    <display-name>Horse Racing Saratoga Live</display-name>
+  </channel>
+  <channel id="icehockey3iceweek1tennesseevschicago">
+    <display-name>Ice Hockey : 3ICE Week 1 : Tennessee vs Chicago</display-name>
+  </channel>
+  <channel id="icehockey3iceweek1bostonvspittsburgh">
+    <display-name>Ice Hockey : 3ICE Week 1 : Boston vs Pittsburgh</display-name>
+  </channel>
+  <channel id="nationalrugbyleagueredcliffevsnqcowboys">
+    <display-name>National Rugby League : Redcliffe vs NQ Cowboys</display-name>
+  </channel>
+  <channel id="superleaguerugbysthelensvsleighcenturions">
+    <display-name>Super League Rugby : St Helens vs Leigh Centurions</display-name>
+  </channel>
+  <channel id="premierpadelroundof16travelp1">
+    <display-name>Premier Padel, Round of 16 Travel P1</display-name>
+  </channel>
+  <channel id="padelmlagap1premierpadel">
+    <display-name>Padel: Málaga P1 - Premier Padel</display-name>
+  </channel>
+  <channel id="nationsleagueargentinavsjapan">
+    <display-name>Nations League : Argentina vs Japan</display-name>
+  </channel>
+  <channel id="nationsleagueukrainevsitaly">
+    <display-name>Nations League : Ukraine vs Italy</display-name>
+  </channel>
+  <channel id="nationsleaguechinavsiran">
+    <display-name>Nations League : China vs Iran</display-name>
+  </channel>
+  <channel id="nationsleaguecubavspoland">
+    <display-name>Nations League : Cuba vs Poland</display-name>
+  </channel>
+  <channel id="nationsleaguenetherlandsvsslovenia">
+    <display-name>Nations League : Netherlands vs Slovenia</display-name>
+  </channel>
+  <channel id="worlduniversitygameswomensfinal10msynchronizedplatform">
+    <display-name>World University Games | Women's Final 10m synchronized platform</display-name>
+  </channel>
+  <channel id="worldaquaticschampionshipsopenwaterswimming5kmwomen">
+    <display-name>World Aquatics Championships Open Water Swimming - 5 km Women</display-name>
+  </channel>
+  <programme start="20250717000000 +0200" stop="20250718010000 +0200" channel="missuniverselatinaelrealitynew">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">Miss Universe Latina, el reality New.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718010000 +0200" stop="20250718030000 +0200" channel="missuniverselatinaelrealitynew">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Miss Universe Latina, el reality New</desc>
+    <category lang="it">TV Shows</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717140000 +0200" channel="worldclubfriendlyosijekvsjpest">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">World - Club Friendly : Osijek vs Újpest.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717140000 +0200" stop="20250717160000 +0200" channel="worldclubfriendlyosijekvsjpest">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World - Club Friendly : Osijek vs Újpest</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717170000 +0200" channel="uefaconferenceleaguebfcdaugavpilsvsvllazniashkodr">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">UEFA Conference League : BFC Daugavpils vs Vllaznia Shkodër.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717170000 +0200" stop="20250717190000 +0200" channel="uefaconferenceleaguebfcdaugavpilsvsvllazniashkodr">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Conference League : BFC Daugavpils vs Vllaznia Shkodër</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717170000 +0200" channel="uefaconferenceleaguebfcdaugavpilsvsvllazniashkodr">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">UEFA Conference League : BFC Daugavpils vs Vllaznia Shkodër.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717170000 +0200" stop="20250717190000 +0200" channel="uefaconferenceleaguebfcdaugavpilsvsvllazniashkodr">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Conference League : BFC Daugavpils vs Vllaznia Shkodër</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717180000 +0200" channel="uefaeuropaleagueaktobevslegiawarszawa">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">UEFA Europa League : Aktobe vs Legia Warszawa.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717180000 +0200" stop="20250717200000 +0200" channel="uefaeuropaleagueaktobevslegiawarszawa">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Europa League : Aktobe vs Legia Warszawa</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717180000 +0200" channel="uefaconferenceleagueordabasyvstorpedokutaisi">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">UEFA Conference League : Ordabasy vs Torpedo Kutaisi.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717180000 +0200" stop="20250717200000 +0200" channel="uefaconferenceleagueordabasyvstorpedokutaisi">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Conference League : Ordabasy vs Torpedo Kutaisi</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717180000 +0200" channel="uefaconferenceleaguefcsantacolomavsboracbanjaluka">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">UEFA Conference League : FC Santa Coloma vs Borac Banja Luka.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717180000 +0200" stop="20250717200000 +0200" channel="uefaconferenceleaguefcsantacolomavsboracbanjaluka">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Conference League : FC Santa Coloma vs Borac Banja Luka</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717180000 +0200" channel="uefaconferenceleaguefcsantacolomavsboracbanjaluka">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">UEFA Conference League : FC Santa Coloma vs Borac Banja Luka.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717180000 +0200" stop="20250717200000 +0200" channel="uefaconferenceleaguefcsantacolomavsboracbanjaluka">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Conference League : FC Santa Coloma vs Borac Banja Luka</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717190000 +0200" channel="worldclubfriendlyarisvsanorthosis">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">World - Club Friendly : Aris vs Anorthosis.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717190000 +0200" stop="20250717210000 +0200" channel="worldclubfriendlyarisvsanorthosis">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World - Club Friendly : Aris vs Anorthosis</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717190000 +0200" channel="uefaconferenceleaguepetrocubvsbirkirkara">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">UEFA Conference League : Petrocub vs Birkirkara.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717190000 +0200" stop="20250717210000 +0200" channel="uefaconferenceleaguepetrocubvsbirkirkara">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Conference League : Petrocub vs Birkirkara</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717193000 +0200" channel="uefaeuropaleaguecfrclujvspaksise">
+    <title lang="it">Inizia alle 19:30.</title>
+    <desc lang="it">UEFA Europa League : CFR Cluj vs Paksi SE.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717193000 +0200" stop="20250717213000 +0200" channel="uefaeuropaleaguecfrclujvspaksise">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Europa League : CFR Cluj vs Paksi SE</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717193000 +0200" channel="uefaeuropaleaguecfrclujvspaksise">
+    <title lang="it">Inizia alle 19:30.</title>
+    <desc lang="it">UEFA Europa League : CFR Cluj vs Paksi SE.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717193000 +0200" stop="20250717213000 +0200" channel="uefaeuropaleaguecfrclujvspaksise">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Europa League : CFR Cluj vs Paksi SE</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717193000 +0200" channel="uefaeuropaleaguecfrclujvspaksise">
+    <title lang="it">Inizia alle 19:30.</title>
+    <desc lang="it">UEFA Europa League : CFR Cluj vs Paksi SE.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717193000 +0200" stop="20250717213000 +0200" channel="uefaeuropaleaguecfrclujvspaksise">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Europa League : CFR Cluj vs Paksi SE</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717193000 +0200" channel="uefaeuropaleaguecfrclujvspaksise">
+    <title lang="it">Inizia alle 19:30.</title>
+    <desc lang="it">UEFA Europa League : CFR Cluj vs Paksi SE.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717193000 +0200" stop="20250717213000 +0200" channel="uefaeuropaleaguecfrclujvspaksise">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Europa League : CFR Cluj vs Paksi SE</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717193000 +0200" channel="uefaconferenceleaguekopervseljezniar">
+    <title lang="it">Inizia alle 19:30.</title>
+    <desc lang="it">UEFA Conference League : Koper vs Željezničar.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717193000 +0200" stop="20250717213000 +0200" channel="uefaconferenceleaguekopervseljezniar">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Conference League : Koper vs Željezničar</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717193000 +0200" channel="uefaconferenceleaguekopervseljezniar">
+    <title lang="it">Inizia alle 19:30.</title>
+    <desc lang="it">UEFA Conference League : Koper vs Željezničar.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717193000 +0200" stop="20250717213000 +0200" channel="uefaconferenceleaguekopervseljezniar">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Conference League : Koper vs Željezničar</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717200000 +0200" channel="uefaeuropaleaguehapoelbeershevavslevskisofia">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">UEFA Europa League : Hapoel Be'er Sheva vs Levski Sofia.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717200000 +0200" stop="20250717220000 +0200" channel="uefaeuropaleaguehapoelbeershevavslevskisofia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Europa League : Hapoel Be'er Sheva vs Levski Sofia</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717200000 +0200" channel="uefaeuropaleaguehapoelbeershevavslevskisofia">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">UEFA Europa League : Hapoel Be'er Sheva vs Levski Sofia.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717200000 +0200" stop="20250717220000 +0200" channel="uefaeuropaleaguehapoelbeershevavslevskisofia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Europa League : Hapoel Be'er Sheva vs Levski Sofia</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717200000 +0200" channel="uefaeuropaleagueceljevssabah">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">UEFA Europa League : Celje vs Sabah.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717200000 +0200" stop="20250717220000 +0200" channel="uefaeuropaleagueceljevssabah">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Europa League : Celje vs Sabah</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717200000 +0200" channel="uefaconferenceleaguepartizanitiranavsnmmekalju">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">UEFA Conference League : Partizani Tirana vs Nõmme Kalju.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717200000 +0200" stop="20250717220000 +0200" channel="uefaconferenceleaguepartizanitiranavsnmmekalju">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Conference League : Partizani Tirana vs Nõmme Kalju</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="worldclubfriendlybeiktavspetralkaakadmia">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">World - Club Friendly : Beşiktaş vs Petržalka akadémia.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="worldclubfriendlybeiktavspetralkaakadmia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World - Club Friendly : Beşiktaş vs Petržalka akadémia</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefawomenseuroswedenvsengland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="worldclubfriendlyfenerbahevsportimonense">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">World - Club Friendly : Fenerbahçe vs Portimonense.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="worldclubfriendlyfenerbahevsportimonense">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World - Club Friendly : Fenerbahçe vs Portimonense</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefaeuropaleaguepartizanvsaeklarnaca">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Europa League : Partizan vs AEK Larnaca.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefaeuropaleaguepartizanvsaeklarnaca">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Europa League : Partizan vs AEK Larnaca</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefaeuropaleaguepartizanvsaeklarnaca">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Europa League : Partizan vs AEK Larnaca.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefaeuropaleaguepartizanvsaeklarnaca">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Europa League : Partizan vs AEK Larnaca</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="uefaeuropaleaguepartizanvsaeklarnaca">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">UEFA Europa League : Partizan vs AEK Larnaca.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="uefaeuropaleaguepartizanvsaeklarnaca">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Europa League : Partizan vs AEK Larnaca</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717223000 +0200" channel="ecuadorseriebindependientejuniorsvsnuevedeoctubre">
+    <title lang="it">Inizia alle 22:30.</title>
+    <desc lang="it">Ecuador - Serie B : Independiente Juniors vs Nueve de Octubre.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717223000 +0200" stop="20250718003000 +0200" channel="ecuadorseriebindependientejuniorsvsnuevedeoctubre">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Ecuador - Serie B : Independiente Juniors vs Nueve de Octubre</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718000000 +0200" channel="copasudamericanauniversidadchilevsguaran">
+    <title lang="it">Inizia alle 00:00.</title>
+    <desc lang="it">Copa Sudamericana : Universidad Chile vs Guaraní.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718000000 +0200" stop="20250718020000 +0200" channel="copasudamericanauniversidadchilevsguaran">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Copa Sudamericana : Universidad Chile vs Guaraní</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718000000 +0200" channel="copasudamericanauniversidadchilevsguaran">
+    <title lang="it">Inizia alle 00:00.</title>
+    <desc lang="it">Copa Sudamericana : Universidad Chile vs Guaraní.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718000000 +0200" stop="20250718020000 +0200" channel="copasudamericanauniversidadchilevsguaran">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Copa Sudamericana : Universidad Chile vs Guaraní</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718000000 +0200" channel="copasudamericanauniversidadchilevsguaran">
+    <title lang="it">Inizia alle 00:00.</title>
+    <desc lang="it">Copa Sudamericana : Universidad Chile vs Guaraní.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718000000 +0200" stop="20250718020000 +0200" channel="copasudamericanauniversidadchilevsguaran">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Copa Sudamericana : Universidad Chile vs Guaraní</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718000000 +0200" channel="copasudamericanauniversidadchilevsguaran">
+    <title lang="it">Inizia alle 00:00.</title>
+    <desc lang="it">Copa Sudamericana : Universidad Chile vs Guaraní.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718000000 +0200" stop="20250718020000 +0200" channel="copasudamericanauniversidadchilevsguaran">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Copa Sudamericana : Universidad Chile vs Guaraní</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718000000 +0200" channel="copasudamericanauniversidadchilevsguaran">
+    <title lang="it">Inizia alle 00:00.</title>
+    <desc lang="it">Copa Sudamericana : Universidad Chile vs Guaraní.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718000000 +0200" stop="20250718020000 +0200" channel="copasudamericanauniversidadchilevsguaran">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Copa Sudamericana : Universidad Chile vs Guaraní</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718000000 +0200" channel="copasudamericanauniversidadchilevsguaran">
+    <title lang="it">Inizia alle 00:00.</title>
+    <desc lang="it">Copa Sudamericana : Universidad Chile vs Guaraní.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718000000 +0200" stop="20250718020000 +0200" channel="copasudamericanauniversidadchilevsguaran">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Copa Sudamericana : Universidad Chile vs Guaraní</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718000000 +0200" channel="copasudamericanauniversidadchilevsguaran">
+    <title lang="it">Inizia alle 00:00.</title>
+    <desc lang="it">Copa Sudamericana : Universidad Chile vs Guaraní.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718000000 +0200" stop="20250718020000 +0200" channel="copasudamericanauniversidadchilevsguaran">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Copa Sudamericana : Universidad Chile vs Guaraní</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718000000 +0200" channel="copasudamericanauniversidadchilevsguaran">
+    <title lang="it">Inizia alle 00:00.</title>
+    <desc lang="it">Copa Sudamericana : Universidad Chile vs Guaraní.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718000000 +0200" stop="20250718020000 +0200" channel="copasudamericanauniversidadchilevsguaran">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Copa Sudamericana : Universidad Chile vs Guaraní</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718000000 +0200" channel="copasudamericanauniversidadchilevsguaran">
+    <title lang="it">Inizia alle 00:00.</title>
+    <desc lang="it">Copa Sudamericana : Universidad Chile vs Guaraní.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718000000 +0200" stop="20250718020000 +0200" channel="copasudamericanauniversidadchilevsguaran">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Copa Sudamericana : Universidad Chile vs Guaraní</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718000000 +0200" channel="copasudamericanauniversidadchilevsguaran">
+    <title lang="it">Inizia alle 00:00.</title>
+    <desc lang="it">Copa Sudamericana : Universidad Chile vs Guaraní.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718000000 +0200" stop="20250718020000 +0200" channel="copasudamericanauniversidadchilevsguaran">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Copa Sudamericana : Universidad Chile vs Guaraní</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718003000 +0200" channel="brazilbrasileirofluminensevscruzeiro">
+    <title lang="it">Inizia alle 00:30.</title>
+    <desc lang="it">Brazil - Brasileirão : Fluminense vs Cruzeiro.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718003000 +0200" stop="20250718023000 +0200" channel="brazilbrasileirofluminensevscruzeiro">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Brazil - Brasileirão : Fluminense vs Cruzeiro</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718003000 +0200" channel="brazilbrasileirofluminensevscruzeiro">
+    <title lang="it">Inizia alle 00:30.</title>
+    <desc lang="it">Brazil - Brasileirão : Fluminense vs Cruzeiro.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718003000 +0200" stop="20250718023000 +0200" channel="brazilbrasileirofluminensevscruzeiro">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Brazil - Brasileirão : Fluminense vs Cruzeiro</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718003000 +0200" channel="brazilbrasileirofluminensevscruzeiro">
+    <title lang="it">Inizia alle 00:30.</title>
+    <desc lang="it">Brazil - Brasileirão : Fluminense vs Cruzeiro.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718003000 +0200" stop="20250718023000 +0200" channel="brazilbrasileirofluminensevscruzeiro">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Brazil - Brasileirão : Fluminense vs Cruzeiro</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718003000 +0200" channel="brazilbrasileirofluminensevscruzeiro">
+    <title lang="it">Inizia alle 00:30.</title>
+    <desc lang="it">Brazil - Brasileirão : Fluminense vs Cruzeiro.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718003000 +0200" stop="20250718023000 +0200" channel="brazilbrasileirofluminensevscruzeiro">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Brazil - Brasileirão : Fluminense vs Cruzeiro</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717160000 +0200" channel="globalsuperleaguecentralstagsvsrangpurriders">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">Global Super League : Central Stags vs Rangpur Riders.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717160000 +0200" stop="20250717180000 +0200" channel="globalsuperleaguecentralstagsvsrangpurriders">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Global Super League : Central Stags vs Rangpur Riders</desc>
+    <category lang="it">Cricket</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717160000 +0200" channel="globalsuperleaguecentralstagsvsrangpurriders">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">Global Super League : Central Stags vs Rangpur Riders.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717160000 +0200" stop="20250717180000 +0200" channel="globalsuperleaguecentralstagsvsrangpurriders">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Global Super League : Central Stags vs Rangpur Riders</desc>
+    <category lang="it">Cricket</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717190000 +0200" channel="natwestt20blastyorkshirevslancashire">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">NatWest T20 Blast : Yorkshire vs Lancashire.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717190000 +0200" stop="20250717210000 +0200" channel="natwestt20blastyorkshirevslancashire">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NatWest T20 Blast : Yorkshire vs Lancashire</desc>
+    <category lang="it">Cricket</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717190000 +0200" channel="natwestt20blastyorkshirevslancashire">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">NatWest T20 Blast : Yorkshire vs Lancashire.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717190000 +0200" stop="20250717210000 +0200" channel="natwestt20blastyorkshirevslancashire">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NatWest T20 Blast : Yorkshire vs Lancashire</desc>
+    <category lang="it">Cricket</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717190000 +0200" channel="natwestt20blastyorkshirevslancashire">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">NatWest T20 Blast : Yorkshire vs Lancashire.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717190000 +0200" stop="20250717210000 +0200" channel="natwestt20blastyorkshirevslancashire">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NatWest T20 Blast : Yorkshire vs Lancashire</desc>
+    <category lang="it">Cricket</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717203000 +0200" channel="3rdtestday4westindiesvsaustralia">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">3rd Test | Day 4 : West Indies vs Australia.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717203000 +0200" stop="20250717223000 +0200" channel="3rdtestday4westindiesvsaustralia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">3rd Test | Day 4 : West Indies vs Australia</desc>
+    <category lang="it">Cricket</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717203000 +0200" channel="3rdtestday4westindiesvsaustralia">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">3rd Test | Day 4 : West Indies vs Australia.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717203000 +0200" stop="20250717223000 +0200" channel="3rdtestday4westindiesvsaustralia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">3rd Test | Day 4 : West Indies vs Australia</desc>
+    <category lang="it">Cricket</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717203000 +0200" channel="3rdtestday4westindiesvsaustralia">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">3rd Test | Day 4 : West Indies vs Australia.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717203000 +0200" stop="20250717223000 +0200" channel="3rdtestday4westindiesvsaustralia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">3rd Test | Day 4 : West Indies vs Australia</desc>
+    <category lang="it">Cricket</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717173000 +0200" channel="hopmancuppapamichaildvsbassolsm">
+    <title lang="it">Inizia alle 17:30.</title>
+    <desc lang="it">HOPMAN CUP : Papamichail D. vs Bassols M..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717173000 +0200" stop="20250717193000 +0200" channel="hopmancuppapamichaildvsbassolsm">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">HOPMAN CUP : Papamichail D. vs Bassols M.</desc>
+    <category lang="it">Tennis HOPMAN CUP</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717173000 +0200" channel="hopmancuppaquetcvsvekicd">
+    <title lang="it">Inizia alle 17:30.</title>
+    <desc lang="it">HOPMAN CUP : Paquet C. vs Vekic D..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717173000 +0200" stop="20250717193000 +0200" channel="hopmancuppaquetcvsvekicd">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">HOPMAN CUP : Paquet C. vs Vekic D.</desc>
+    <category lang="it">Tennis HOPMAN CUP</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717190000 +0200" channel="hopmancuptsitsipassvsbautistaagutr">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">HOPMAN CUP : Tsitsipas S. vs Bautista-Agut R..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717190000 +0200" stop="20250717210000 +0200" channel="hopmancuptsitsipassvsbautistaagutr">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">HOPMAN CUP : Tsitsipas S. vs Bautista-Agut R.</desc>
+    <category lang="it">Tennis HOPMAN CUP</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717190000 +0200" channel="hopmancupgasquetrvsajdukovicd">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">HOPMAN CUP : Gasquet R. vs Ajdukovic D..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717190000 +0200" stop="20250717210000 +0200" channel="hopmancupgasquetrvsajdukovicd">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">HOPMAN CUP : Gasquet R. vs Ajdukovic D.</desc>
+    <category lang="it">Tennis HOPMAN CUP</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717110000 +0200" channel="atpbastadugocarabellicvsvandezandschulpb">
+    <title lang="it">Inizia alle 11:00.</title>
+    <desc lang="it">ATP - BASTAD : Ugo Carabelli C. vs Van De Zandschulp B..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717110000 +0200" stop="20250717130000 +0200" channel="atpbastadugocarabellicvsvandezandschulpb">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">ATP - BASTAD : Ugo Carabelli C. vs Van De Zandschulp B.</desc>
+    <category lang="it">Tennis ATP - BASTAD</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717123000 +0200" channel="atpbastadmisolicfvsborgesn">
+    <title lang="it">Inizia alle 12:30.</title>
+    <desc lang="it">ATP - BASTAD : Misolic F. vs Borges N..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717123000 +0200" stop="20250717143000 +0200" channel="atpbastadmisolicfvsborgesn">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">ATP - BASTAD : Misolic F. vs Borges N.</desc>
+    <category lang="it">Tennis ATP - BASTAD</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717140000 +0200" channel="atpbastadcerundolofvsnavonem">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">ATP - BASTAD : Cerundolo F. vs Navone M..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717140000 +0200" stop="20250717160000 +0200" channel="atpbastadcerundolofvsnavonem">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">ATP - BASTAD : Cerundolo F. vs Navone M.</desc>
+    <category lang="it">Tennis ATP - BASTAD</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717153000 +0200" channel="atpbastadgastonhvsdzumhurd">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">ATP - BASTAD : Gaston H. vs Dzumhur D..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717153000 +0200" stop="20250717173000 +0200" channel="atpbastadgastonhvsdzumhurd">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">ATP - BASTAD : Gaston H. vs Dzumhur D.</desc>
+    <category lang="it">Tennis ATP - BASTAD</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717103000 +0200" channel="atpgstaadcomesanafvscarballesbaenar">
+    <title lang="it">Inizia alle 10:30.</title>
+    <desc lang="it">ATP - GSTAAD : Comesana F. vs Carballes Baena R..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717103000 +0200" stop="20250717123000 +0200" channel="atpgstaadcomesanafvscarballesbaenar">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">ATP - GSTAAD : Comesana F. vs Carballes Baena R.</desc>
+    <category lang="it">Tennis ATP - GSTAAD</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717120000 +0200" channel="atpgstaadcerundolojmvsgoffind">
+    <title lang="it">Inizia alle 12:00.</title>
+    <desc lang="it">ATP - GSTAAD : Cerundolo J. M. vs Goffin D..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717120000 +0200" stop="20250717140000 +0200" channel="atpgstaadcerundolojmvsgoffind">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">ATP - GSTAAD : Cerundolo J. M. vs Goffin D.</desc>
+    <category lang="it">Tennis ATP - GSTAAD</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717133000 +0200" channel="atpgstaadcazauxavsetcheverrytm">
+    <title lang="it">Inizia alle 13:30.</title>
+    <desc lang="it">ATP - GSTAAD : Cazaux A. vs Etcheverry T. M..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717133000 +0200" stop="20250717153000 +0200" channel="atpgstaadcazauxavsetcheverrytm">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">ATP - GSTAAD : Cazaux A. vs Etcheverry T. M.</desc>
+    <category lang="it">Tennis ATP - GSTAAD</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717150000 +0200" channel="atpgstaadshevchenkoavsbublika">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">ATP - GSTAAD : Shevchenko A. vs Bublik A..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717150000 +0200" stop="20250717170000 +0200" channel="atpgstaadshevchenkoavsbublika">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">ATP - GSTAAD : Shevchenko A. vs Bublik A.</desc>
+    <category lang="it">Tennis ATP - GSTAAD</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717173000 +0200" channel="atpgstaadpassarofvskymj">
+    <title lang="it">Inizia alle 17:30.</title>
+    <desc lang="it">ATP - GSTAAD : Passaro F. vs Kym J..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717173000 +0200" stop="20250717193000 +0200" channel="atpgstaadpassarofvskymj">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">ATP - GSTAAD : Passaro F. vs Kym J.</desc>
+    <category lang="it">Tennis ATP - GSTAAD</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717110000 +0200" channel="wtahamburgsharmaavstomovav">
+    <title lang="it">Inizia alle 11:00.</title>
+    <desc lang="it">WTA - HAMBURG : Sharma A. vs Tomova V..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717110000 +0200" stop="20250717130000 +0200" channel="wtahamburgsharmaavstomovav">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WTA - HAMBURG : Sharma A. vs Tomova V.</desc>
+    <category lang="it">Tennis WTA - HAMBURG :</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717123000 +0200" channel="wtahamburgkraussvsbondara">
+    <title lang="it">Inizia alle 12:30.</title>
+    <desc lang="it">WTA - HAMBURG : Kraus S. vs Bondar A..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717123000 +0200" stop="20250717143000 +0200" channel="wtahamburgkraussvsbondara">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WTA - HAMBURG : Kraus S. vs Bondar A.</desc>
+    <category lang="it">Tennis WTA - HAMBURG :</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717140000 +0200" channel="wtahamburgparrydvsyastremskad">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">WTA - HAMBURG : Parry D. vs Yastremska D..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717140000 +0200" stop="20250717160000 +0200" channel="wtahamburgparrydvsyastremskad">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WTA - HAMBURG : Parry D. vs Yastremska D.</desc>
+    <category lang="it">Tennis WTA - HAMBURG :</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717170000 +0200" channel="wtahamburgalexandrovaevswernerc">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">WTA - HAMBURG : Alexandrova E. vs Werner C..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717170000 +0200" stop="20250717190000 +0200" channel="wtahamburgalexandrovaevswernerc">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WTA - HAMBURG : Alexandrova E. vs Werner C.</desc>
+    <category lang="it">Tennis WTA - HAMBURG :</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717110000 +0200" channel="wtaiasicirsteasvsgrachevav">
+    <title lang="it">Inizia alle 11:00.</title>
+    <desc lang="it">WTA - IASI : Cirstea S. vs Gracheva V..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717110000 +0200" stop="20250717130000 +0200" channel="wtaiasicirsteasvsgrachevav">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WTA - IASI : Cirstea S. vs Gracheva V.</desc>
+    <category lang="it">Tennis WTA - IASI :</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717113000 +0200" channel="wtaiasiburilloescorihuelaivswalterts">
+    <title lang="it">Inizia alle 11:30.</title>
+    <desc lang="it">WTA - IASI : Burillo Escorihuela I. vs Waltert S..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717113000 +0200" stop="20250717133000 +0200" channel="wtaiasiburilloescorihuelaivswalterts">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WTA - IASI : Burillo Escorihuela I. vs Waltert S.</desc>
+    <category lang="it">Tennis WTA - IASI :</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717123000 +0200" channel="wtaiasibeguivsjimenezkasintsevav">
+    <title lang="it">Inizia alle 12:30.</title>
+    <desc lang="it">WTA - IASI : Begu I. vs Jimenez Kasintseva V..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717123000 +0200" stop="20250717143000 +0200" channel="wtaiasibeguivsjimenezkasintsevav">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WTA - IASI : Begu I. vs Jimenez Kasintseva V.</desc>
+    <category lang="it">Tennis WTA - IASI :</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717140000 +0200" channel="wtaiasifettjvscristianj">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">WTA - IASI : Fett J. vs Cristian J..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717140000 +0200" stop="20250717160000 +0200" channel="wtaiasifettjvscristianj">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WTA - IASI : Fett J. vs Cristian J.</desc>
+    <category lang="it">Tennis WTA - IASI :</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717170000 +0200" channel="wrcrallyestonia">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">WRC: Rally Estonia.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717170000 +0200" stop="20250717190000 +0200" channel="wrcrallyestonia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WRC: Rally Estonia</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717190000 +0200" channel="wrcrallyestoniaspecialstage1day1">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">WRC Rally Estonia | Special Stage 1 | Day 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717190000 +0200" stop="20250717210000 +0200" channel="wrcrallyestoniaspecialstage1day1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WRC Rally Estonia | Special Stage 1 | Day 1</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717190000 +0200" channel="wrcrallyestoniaspecialstage1day1">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">WRC Rally Estonia | Special Stage 1 | Day 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717190000 +0200" stop="20250717210000 +0200" channel="wrcrallyestoniaspecialstage1day1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WRC Rally Estonia | Special Stage 1 | Day 1</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717190000 +0200" channel="wrcrallyestoniaspecialstage1day1">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">WRC Rally Estonia | Special Stage 1 | Day 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717190000 +0200" stop="20250717210000 +0200" channel="wrcrallyestoniaspecialstage1day1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WRC Rally Estonia | Special Stage 1 | Day 1</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717190000 +0200" channel="wrcrallyestoniaspecialstage1day1">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">WRC Rally Estonia | Special Stage 1 | Day 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717190000 +0200" stop="20250717210000 +0200" channel="wrcrallyestoniaspecialstage1day1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WRC Rally Estonia | Special Stage 1 | Day 1</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717190000 +0200" channel="wrcrallyestoniaspecialstage1day1">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">WRC Rally Estonia | Special Stage 1 | Day 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717190000 +0200" stop="20250717210000 +0200" channel="wrcrallyestoniaspecialstage1day1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WRC Rally Estonia | Special Stage 1 | Day 1</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717190000 +0200" channel="wrcrallyestoniaspecialstage1day1">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">WRC Rally Estonia | Special Stage 1 | Day 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717190000 +0200" stop="20250717210000 +0200" channel="wrcrallyestoniaspecialstage1day1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WRC Rally Estonia | Special Stage 1 | Day 1</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717190000 +0200" channel="wrcrallyestoniaspecialstage1day1">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">WRC Rally Estonia | Special Stage 1 | Day 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717190000 +0200" stop="20250717210000 +0200" channel="wrcrallyestoniaspecialstage1day1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WRC Rally Estonia | Special Stage 1 | Day 1</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717190000 +0200" channel="wrcrallyestoniaspecialstage1day1">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">WRC Rally Estonia | Special Stage 1 | Day 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717190000 +0200" stop="20250717210000 +0200" channel="wrcrallyestoniaspecialstage1day1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WRC Rally Estonia | Special Stage 1 | Day 1</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717190000 +0200" channel="wrcrallyestoniaspecialstage1day1">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">WRC Rally Estonia | Special Stage 1 | Day 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717190000 +0200" stop="20250717210000 +0200" channel="wrcrallyestoniaspecialstage1day1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WRC Rally Estonia | Special Stage 1 | Day 1</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717190000 +0200" channel="wrcrallyestoniaspecialstage1day1">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">WRC Rally Estonia | Special Stage 1 | Day 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717190000 +0200" stop="20250717210000 +0200" channel="wrcrallyestoniaspecialstage1day1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WRC Rally Estonia | Special Stage 1 | Day 1</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717190000 +0200" channel="speedway2ekstraligalesznovspoznan">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">Speedway: 2.Ekstraliga - Leszno vs Poznan.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717190000 +0200" stop="20250717210000 +0200" channel="speedway2ekstraligalesznovspoznan">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Speedway: 2.Ekstraliga - Leszno vs Poznan</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717200000 +0200" channel="speedwaypgeekstraliga12">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">Speedway: PGE Ekstraliga (12).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717200000 +0200" stop="20250717220000 +0200" channel="speedwaypgeekstraliga12">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Speedway: PGE Ekstraliga (12)</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718010000 +0200" channel="autoracingjokersjackpotateldoraspeedway">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">Auto Racing : Joker's Jackpot at Eldora Speedway.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718010000 +0200" stop="20250718030000 +0200" channel="autoracingjokersjackpotateldoraspeedway">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Auto Racing : Joker's Jackpot at Eldora Speedway</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717180000 +0200" channel="acayoungeagles56muslimibragimovvskurbanaliisabekov">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">ACA Young Eagles 56 : Muslim Ibragimov vs. Kurbanali Isabekov.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717180000 +0200" stop="20250717200000 +0200" channel="acayoungeagles56muslimibragimovvskurbanaliisabekov">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">ACA Young Eagles 56 : Muslim Ibragimov vs. Kurbanali Isabekov</desc>
+    <category lang="it">MMA</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717230000 +0200" channel="pgatourbarracudachampionship">
+    <title lang="it">Inizia alle 23:00.</title>
+    <desc lang="it">PGA Tour Barracuda Championship.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717230000 +0200" stop="20250718010000 +0200" channel="pgatourbarracudachampionship">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">PGA Tour Barracuda Championship</desc>
+    <category lang="it">Golf</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717230000 +0200" channel="pgatourbarracudachampionship">
+    <title lang="it">Inizia alle 23:00.</title>
+    <desc lang="it">PGA Tour Barracuda Championship.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717230000 +0200" stop="20250718010000 +0200" channel="pgatourbarracudachampionship">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">PGA Tour Barracuda Championship</desc>
+    <category lang="it">Golf</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717230000 +0200" channel="pgatourbarracudachampionship">
+    <title lang="it">Inizia alle 23:00.</title>
+    <desc lang="it">PGA Tour Barracuda Championship.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717230000 +0200" stop="20250718010000 +0200" channel="pgatourbarracudachampionship">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">PGA Tour Barracuda Championship</desc>
+    <category lang="it">Golf</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717230000 +0200" channel="pgatourbarracudachampionship">
+    <title lang="it">Inizia alle 23:00.</title>
+    <desc lang="it">PGA Tour Barracuda Championship.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717230000 +0200" stop="20250718010000 +0200" channel="pgatourbarracudachampionship">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">PGA Tour Barracuda Championship</desc>
+    <category lang="it">Golf</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717230000 +0200" channel="pgatourbarracudachampionship">
+    <title lang="it">Inizia alle 23:00.</title>
+    <desc lang="it">PGA Tour Barracuda Championship.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717230000 +0200" stop="20250718010000 +0200" channel="pgatourbarracudachampionship">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">PGA Tour Barracuda Championship</desc>
+    <category lang="it">Golf</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717230000 +0200" channel="pgatourbarracudachampionship">
+    <title lang="it">Inizia alle 23:00.</title>
+    <desc lang="it">PGA Tour Barracuda Championship.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717230000 +0200" stop="20250718010000 +0200" channel="pgatourbarracudachampionship">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">PGA Tour Barracuda Championship</desc>
+    <category lang="it">Golf</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717230000 +0200" channel="pgatourbarracudachampionship">
+    <title lang="it">Inizia alle 23:00.</title>
+    <desc lang="it">PGA Tour Barracuda Championship.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717230000 +0200" stop="20250718010000 +0200" channel="pgatourbarracudachampionship">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">PGA Tour Barracuda Championship</desc>
+    <category lang="it">Golf</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717230000 +0200" channel="pgatourbarracudachampionship">
+    <title lang="it">Inizia alle 23:00.</title>
+    <desc lang="it">PGA Tour Barracuda Championship.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717230000 +0200" stop="20250718010000 +0200" channel="pgatourbarracudachampionship">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">PGA Tour Barracuda Championship</desc>
+    <category lang="it">Golf</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717130000 +0200" channel="championshipleaguesnookeraaronhillvsgarythomson">
+    <title lang="it">Inizia alle 13:00.</title>
+    <desc lang="it">Championship League Snooker : Aaron Hill vs Gary Thomson.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717130000 +0200" stop="20250717150000 +0200" channel="championshipleaguesnookeraaronhillvsgarythomson">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Championship League Snooker : Aaron Hill vs Gary Thomson</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717130000 +0200" channel="championshipleaguesnookeraaronhillvsgarythomson">
+    <title lang="it">Inizia alle 13:00.</title>
+    <desc lang="it">Championship League Snooker : Aaron Hill vs Gary Thomson.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717130000 +0200" stop="20250717150000 +0200" channel="championshipleaguesnookeraaronhillvsgarythomson">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Championship League Snooker : Aaron Hill vs Gary Thomson</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717180000 +0200" channel="championshipleaguesnookerxusivsliamhighfield">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">Championship League Snooker : Xu Si vs Liam Highfield.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717180000 +0200" stop="20250717200000 +0200" channel="championshipleaguesnookerxusivsliamhighfield">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Championship League Snooker : Xu Si vs Liam Highfield</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717180000 +0200" channel="championshipleaguesnookerxusivsliamhighfield">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">Championship League Snooker : Xu Si vs Liam Highfield.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717180000 +0200" stop="20250717200000 +0200" channel="championshipleaguesnookerxusivsliamhighfield">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Championship League Snooker : Xu Si vs Liam Highfield</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718013000 +0200" channel="cflmontrealalouettesvstorontoargonauts">
+    <title lang="it">Inizia alle 01:30.</title>
+    <desc lang="it">CFL : Montreal Alouettes vs Toronto Argonauts.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718013000 +0200" stop="20250718033000 +0200" channel="cflmontrealalouettesvstorontoargonauts">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">CFL : Montreal Alouettes vs Toronto Argonauts</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718013000 +0200" channel="cflmontrealalouettesvstorontoargonauts">
+    <title lang="it">Inizia alle 01:30.</title>
+    <desc lang="it">CFL : Montreal Alouettes vs Toronto Argonauts.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718013000 +0200" stop="20250718033000 +0200" channel="cflmontrealalouettesvstorontoargonauts">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">CFL : Montreal Alouettes vs Toronto Argonauts</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718013000 +0200" channel="cflmontrealalouettesvstorontoargonauts">
+    <title lang="it">Inizia alle 01:30.</title>
+    <desc lang="it">CFL : Montreal Alouettes vs Toronto Argonauts.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718013000 +0200" stop="20250718033000 +0200" channel="cflmontrealalouettesvstorontoargonauts">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">CFL : Montreal Alouettes vs Toronto Argonauts</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718013000 +0200" channel="cflmontrealalouettesvstorontoargonauts">
+    <title lang="it">Inizia alle 01:30.</title>
+    <desc lang="it">CFL : Montreal Alouettes vs Toronto Argonauts.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718013000 +0200" stop="20250718033000 +0200" channel="cflmontrealalouettesvstorontoargonauts">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">CFL : Montreal Alouettes vs Toronto Argonauts</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718013000 +0200" channel="cflmontrealalouettesvstorontoargonauts">
+    <title lang="it">Inizia alle 01:30.</title>
+    <desc lang="it">CFL : Montreal Alouettes vs Toronto Argonauts.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718013000 +0200" stop="20250718033000 +0200" channel="cflmontrealalouettesvstorontoargonauts">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">CFL : Montreal Alouettes vs Toronto Argonauts</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717160000 +0200" channel="athleticseuropeanunder23championshipsbergen2025day1">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">Athletics: European Under-23 Championships - Bergen 2025 Day 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717160000 +0200" stop="20250717180000 +0200" channel="athleticseuropeanunder23championshipsbergen2025day1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Athletics: European Under-23 Championships - Bergen 2025 Day 1</desc>
+    <category lang="it">Athletics</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717160000 +0200" channel="athleticseuropeanunder23championshipsbergen2025day1">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">Athletics: European Under-23 Championships - Bergen 2025 Day 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717160000 +0200" stop="20250717180000 +0200" channel="athleticseuropeanunder23championshipsbergen2025day1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Athletics: European Under-23 Championships - Bergen 2025 Day 1</desc>
+    <category lang="it">Athletics</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717113000 +0200" channel="aflessendonbombersvsgreaterwesternsydney">
+    <title lang="it">Inizia alle 11:30.</title>
+    <desc lang="it">AFL : Essendon Bombers vs Greater Western Sydney.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717113000 +0200" stop="20250717133000 +0200" channel="aflessendonbombersvsgreaterwesternsydney">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">AFL : Essendon Bombers vs Greater Western Sydney</desc>
+    <category lang="it">Aussie rules</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717113000 +0200" channel="aflessendonbombersvsgreaterwesternsydney">
+    <title lang="it">Inizia alle 11:30.</title>
+    <desc lang="it">AFL : Essendon Bombers vs Greater Western Sydney.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717113000 +0200" stop="20250717133000 +0200" channel="aflessendonbombersvsgreaterwesternsydney">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">AFL : Essendon Bombers vs Greater Western Sydney</desc>
+    <category lang="it">Aussie rules</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717113000 +0200" channel="aflessendonbombersvsgreaterwesternsydney">
+    <title lang="it">Inizia alle 11:30.</title>
+    <desc lang="it">AFL : Essendon Bombers vs Greater Western Sydney.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717113000 +0200" stop="20250717133000 +0200" channel="aflessendonbombersvsgreaterwesternsydney">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">AFL : Essendon Bombers vs Greater Western Sydney</desc>
+    <category lang="it">Aussie rules</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718003000 +0200" channel="collegiatesummerbaseballfcblnashuasilverknightsvsworcesterbravehearts">
+    <title lang="it">Inizia alle 00:30.</title>
+    <desc lang="it">Collegiate Summer Baseball FCBL : Nashua Silver Knights vs Worcester Bravehearts.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718003000 +0200" stop="20250718023000 +0200" channel="collegiatesummerbaseballfcblnashuasilverknightsvsworcesterbravehearts">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Collegiate Summer Baseball FCBL : Nashua Silver Knights vs Worcester Bravehearts</desc>
+    <category lang="it">Baseball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718010000 +0200" channel="athletesunlimitedsoftballleaguebanditsvsvolts">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">Athletes Unlimited Softball League : Bandits vs Volts.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718010000 +0200" stop="20250718030000 +0200" channel="athletesunlimitedsoftballleaguebanditsvsvolts">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Athletes Unlimited Softball League : Bandits vs Volts</desc>
+    <category lang="it">Baseball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717220000 +0200" channel="nbalasvegassummerleaguemiamiheatvsdetroitpistons">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">NBA Las Vegas Summer League : Miami Heat vs Detroit Pistons.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717220000 +0200" stop="20250718000000 +0200" channel="nbalasvegassummerleaguemiamiheatvsdetroitpistons">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NBA Las Vegas Summer League : Miami Heat vs Detroit Pistons</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717220000 +0200" channel="nbalasvegassummerleaguemiamiheatvsdetroitpistons">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">NBA Las Vegas Summer League : Miami Heat vs Detroit Pistons.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717220000 +0200" stop="20250718000000 +0200" channel="nbalasvegassummerleaguemiamiheatvsdetroitpistons">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NBA Las Vegas Summer League : Miami Heat vs Detroit Pistons</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717220000 +0200" channel="nbalasvegassummerleaguemiamiheatvsdetroitpistons">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">NBA Las Vegas Summer League : Miami Heat vs Detroit Pistons.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717220000 +0200" stop="20250718000000 +0200" channel="nbalasvegassummerleaguemiamiheatvsdetroitpistons">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NBA Las Vegas Summer League : Miami Heat vs Detroit Pistons</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717220000 +0200" channel="nbalasvegassummerleaguemiamiheatvsdetroitpistons">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">NBA Las Vegas Summer League : Miami Heat vs Detroit Pistons.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717220000 +0200" stop="20250718000000 +0200" channel="nbalasvegassummerleaguemiamiheatvsdetroitpistons">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NBA Las Vegas Summer League : Miami Heat vs Detroit Pistons</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717223000 +0200" channel="nbalasvegassummerleaguenewyorkknicksvsindianapacers">
+    <title lang="it">Inizia alle 22:30.</title>
+    <desc lang="it">NBA Las Vegas Summer League : New York Knicks vs Indiana Pacers.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717223000 +0200" stop="20250718003000 +0200" channel="nbalasvegassummerleaguenewyorkknicksvsindianapacers">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NBA Las Vegas Summer League : New York Knicks vs Indiana Pacers</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717223000 +0200" channel="nbalasvegassummerleaguenewyorkknicksvsindianapacers">
+    <title lang="it">Inizia alle 22:30.</title>
+    <desc lang="it">NBA Las Vegas Summer League : New York Knicks vs Indiana Pacers.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717223000 +0200" stop="20250718003000 +0200" channel="nbalasvegassummerleaguenewyorkknicksvsindianapacers">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NBA Las Vegas Summer League : New York Knicks vs Indiana Pacers</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718000000 +0200" channel="nbalasvegassummerleaguememphisgrizzliesvsatlantahawks">
+    <title lang="it">Inizia alle 00:00.</title>
+    <desc lang="it">NBA Las Vegas Summer League : Memphis Grizzlies vs Atlanta Hawks.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718000000 +0200" stop="20250718020000 +0200" channel="nbalasvegassummerleaguememphisgrizzliesvsatlantahawks">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NBA Las Vegas Summer League : Memphis Grizzlies vs Atlanta Hawks</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718000000 +0200" channel="nbalasvegassummerleaguememphisgrizzliesvsatlantahawks">
+    <title lang="it">Inizia alle 00:00.</title>
+    <desc lang="it">NBA Las Vegas Summer League : Memphis Grizzlies vs Atlanta Hawks.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718000000 +0200" stop="20250718020000 +0200" channel="nbalasvegassummerleaguememphisgrizzliesvsatlantahawks">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NBA Las Vegas Summer League : Memphis Grizzlies vs Atlanta Hawks</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718000000 +0200" channel="nbalasvegassummerleaguememphisgrizzliesvsatlantahawks">
+    <title lang="it">Inizia alle 00:00.</title>
+    <desc lang="it">NBA Las Vegas Summer League : Memphis Grizzlies vs Atlanta Hawks.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718000000 +0200" stop="20250718020000 +0200" channel="nbalasvegassummerleaguememphisgrizzliesvsatlantahawks">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NBA Las Vegas Summer League : Memphis Grizzlies vs Atlanta Hawks</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718000000 +0200" channel="nbalasvegassummerleaguememphisgrizzliesvsatlantahawks">
+    <title lang="it">Inizia alle 00:00.</title>
+    <desc lang="it">NBA Las Vegas Summer League : Memphis Grizzlies vs Atlanta Hawks.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718000000 +0200" stop="20250718020000 +0200" channel="nbalasvegassummerleaguememphisgrizzliesvsatlantahawks">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NBA Las Vegas Summer League : Memphis Grizzlies vs Atlanta Hawks</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718003000 +0200" channel="brazillbfwomenourinhoswvssaojosew">
+    <title lang="it">Inizia alle 00:30.</title>
+    <desc lang="it">Brazil LBF Women : Ourinhos W vs Sao Jose W.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718003000 +0200" stop="20250718023000 +0200" channel="brazillbfwomenourinhoswvssaojosew">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Brazil LBF Women : Ourinhos W vs Sao Jose W</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718010000 +0200" channel="nbalasvegassummerleaguecharlottehornetsvssanantoniospurs">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">NBA Las Vegas Summer League : Charlotte Hornets vs San Antonio Spurs.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718010000 +0200" stop="20250718030000 +0200" channel="nbalasvegassummerleaguecharlottehornetsvssanantoniospurs">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NBA Las Vegas Summer League : Charlotte Hornets vs San Antonio Spurs</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718010000 +0200" channel="nbalasvegassummerleaguecharlottehornetsvssanantoniospurs">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">NBA Las Vegas Summer League : Charlotte Hornets vs San Antonio Spurs.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718010000 +0200" stop="20250718030000 +0200" channel="nbalasvegassummerleaguecharlottehornetsvssanantoniospurs">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NBA Las Vegas Summer League : Charlotte Hornets vs San Antonio Spurs</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718010000 +0200" channel="nbalasvegassummerleaguecharlottehornetsvssanantoniospurs">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">NBA Las Vegas Summer League : Charlotte Hornets vs San Antonio Spurs.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718010000 +0200" stop="20250718030000 +0200" channel="nbalasvegassummerleaguecharlottehornetsvssanantoniospurs">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NBA Las Vegas Summer League : Charlotte Hornets vs San Antonio Spurs</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717130000 +0200" channel="tourdefranceuciworldtourstage12auchtohautacammountain180km3850m">
+    <title lang="it">Inizia alle 13:00.</title>
+    <desc lang="it">Tour de France UCI World Tour Stage 12 - Auch to Hautacam Mountain | 180 km | 3850 m.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717130000 +0200" stop="20250717150000 +0200" channel="tourdefranceuciworldtourstage12auchtohautacammountain180km3850m">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Tour de France UCI World Tour Stage 12 - Auch to Hautacam Mountain | 180 km | 3850 m</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717130000 +0200" channel="tourdefranceuciworldtourstage12auchtohautacammountain180km3850m">
+    <title lang="it">Inizia alle 13:00.</title>
+    <desc lang="it">Tour de France UCI World Tour Stage 12 - Auch to Hautacam Mountain | 180 km | 3850 m.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717130000 +0200" stop="20250717150000 +0200" channel="tourdefranceuciworldtourstage12auchtohautacammountain180km3850m">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Tour de France UCI World Tour Stage 12 - Auch to Hautacam Mountain | 180 km | 3850 m</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717130000 +0200" channel="tourdefranceuciworldtourstage12auchtohautacammountain180km3850m">
+    <title lang="it">Inizia alle 13:00.</title>
+    <desc lang="it">Tour de France UCI World Tour Stage 12 - Auch to Hautacam Mountain | 180 km | 3850 m.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717130000 +0200" stop="20250717150000 +0200" channel="tourdefranceuciworldtourstage12auchtohautacammountain180km3850m">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Tour de France UCI World Tour Stage 12 - Auch to Hautacam Mountain | 180 km | 3850 m</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717130000 +0200" channel="tourdefranceuciworldtourstage12auchtohautacammountain180km3850m">
+    <title lang="it">Inizia alle 13:00.</title>
+    <desc lang="it">Tour de France UCI World Tour Stage 12 - Auch to Hautacam Mountain | 180 km | 3850 m.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717130000 +0200" stop="20250717150000 +0200" channel="tourdefranceuciworldtourstage12auchtohautacammountain180km3850m">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Tour de France UCI World Tour Stage 12 - Auch to Hautacam Mountain | 180 km | 3850 m</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717130000 +0200" channel="tourdefranceuciworldtourstage12auchtohautacammountain180km3850m">
+    <title lang="it">Inizia alle 13:00.</title>
+    <desc lang="it">Tour de France UCI World Tour Stage 12 - Auch to Hautacam Mountain | 180 km | 3850 m.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717130000 +0200" stop="20250717150000 +0200" channel="tourdefranceuciworldtourstage12auchtohautacammountain180km3850m">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Tour de France UCI World Tour Stage 12 - Auch to Hautacam Mountain | 180 km | 3850 m</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717130000 +0200" channel="tourdefranceuciworldtourstage12auchtohautacammountain180km3850m">
+    <title lang="it">Inizia alle 13:00.</title>
+    <desc lang="it">Tour de France UCI World Tour Stage 12 - Auch to Hautacam Mountain | 180 km | 3850 m.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717130000 +0200" stop="20250717150000 +0200" channel="tourdefranceuciworldtourstage12auchtohautacammountain180km3850m">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Tour de France UCI World Tour Stage 12 - Auch to Hautacam Mountain | 180 km | 3850 m</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717150000 +0200" channel="longinesfeijumpingeuropeanchampionshipacorua2025t2025secondcompetitionfirstround">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">Longines FEI Jumping European Championship A Coruña 2025 (T2025): Second Competition. First Round.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717150000 +0200" stop="20250717170000 +0200" channel="longinesfeijumpingeuropeanchampionshipacorua2025t2025secondcompetitionfirstround">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Longines FEI Jumping European Championship A Coruña 2025 (T2025): Second Competition. First Round</desc>
+    <category lang="it">Equestrian</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717143000 +0200" channel="liveracingfromhamiltonleicesterepsomkillarneyandleopardstown">
+    <title lang="it">Inizia alle 14:30.</title>
+    <desc lang="it">Live racing from Hamilton, Leicester, Epsom, Killarney and Leopardstown.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717143000 +0200" stop="20250717163000 +0200" channel="liveracingfromhamiltonleicesterepsomkillarneyandleopardstown">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Live racing from Hamilton, Leicester, Epsom, Killarney and Leopardstown</desc>
+    <category lang="it">Horse Racing</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717144500 +0200" channel="liveracingfromaroundtheuk">
+    <title lang="it">Inizia alle 14:45.</title>
+    <desc lang="it">Live racing from around the UK.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717144500 +0200" stop="20250717164500 +0200" channel="liveracingfromaroundtheuk">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Live racing from around the UK</desc>
+    <category lang="it">Horse Racing</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717190000 +0200" channel="horseracingsaratogalive">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">Horse Racing Saratoga Live.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717190000 +0200" stop="20250717210000 +0200" channel="horseracingsaratogalive">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Horse Racing Saratoga Live</desc>
+    <category lang="it">Horse Racing</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718000000 +0200" channel="horseracingsaratogalive">
+    <title lang="it">Inizia alle 00:00.</title>
+    <desc lang="it">Horse Racing Saratoga Live.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718000000 +0200" stop="20250718020000 +0200" channel="horseracingsaratogalive">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Horse Racing Saratoga Live</desc>
+    <category lang="it">Horse Racing</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718010000 +0200" channel="icehockey3iceweek1tennesseevschicago">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">Ice Hockey : 3ICE Week 1 : Tennessee vs Chicago.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718010000 +0200" stop="20250718030000 +0200" channel="icehockey3iceweek1tennesseevschicago">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Ice Hockey : 3ICE Week 1 : Tennessee vs Chicago</desc>
+    <category lang="it">Ice Hockey</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718010000 +0200" channel="icehockey3iceweek1tennesseevschicago">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">Ice Hockey : 3ICE Week 1 : Tennessee vs Chicago.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718010000 +0200" stop="20250718030000 +0200" channel="icehockey3iceweek1tennesseevschicago">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Ice Hockey : 3ICE Week 1 : Tennessee vs Chicago</desc>
+    <category lang="it">Ice Hockey</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718010000 +0200" channel="icehockey3iceweek1tennesseevschicago">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">Ice Hockey : 3ICE Week 1 : Tennessee vs Chicago.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718010000 +0200" stop="20250718030000 +0200" channel="icehockey3iceweek1tennesseevschicago">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Ice Hockey : 3ICE Week 1 : Tennessee vs Chicago</desc>
+    <category lang="it">Ice Hockey</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718010000 +0200" channel="icehockey3iceweek1tennesseevschicago">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">Ice Hockey : 3ICE Week 1 : Tennessee vs Chicago.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718010000 +0200" stop="20250718030000 +0200" channel="icehockey3iceweek1tennesseevschicago">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Ice Hockey : 3ICE Week 1 : Tennessee vs Chicago</desc>
+    <category lang="it">Ice Hockey</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718010000 +0200" channel="icehockey3iceweek1tennesseevschicago">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">Ice Hockey : 3ICE Week 1 : Tennessee vs Chicago.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718010000 +0200" stop="20250718030000 +0200" channel="icehockey3iceweek1tennesseevschicago">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Ice Hockey : 3ICE Week 1 : Tennessee vs Chicago</desc>
+    <category lang="it">Ice Hockey</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718010000 +0200" channel="icehockey3iceweek1tennesseevschicago">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">Ice Hockey : 3ICE Week 1 : Tennessee vs Chicago.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718010000 +0200" stop="20250718030000 +0200" channel="icehockey3iceweek1tennesseevschicago">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Ice Hockey : 3ICE Week 1 : Tennessee vs Chicago</desc>
+    <category lang="it">Ice Hockey</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718010000 +0200" channel="icehockey3iceweek1bostonvspittsburgh">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">Ice Hockey : 3ICE Week 1 : Boston vs Pittsburgh.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718010000 +0200" stop="20250718030000 +0200" channel="icehockey3iceweek1bostonvspittsburgh">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Ice Hockey : 3ICE Week 1 : Boston vs Pittsburgh</desc>
+    <category lang="it">Ice Hockey</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718010000 +0200" channel="icehockey3iceweek1bostonvspittsburgh">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">Ice Hockey : 3ICE Week 1 : Boston vs Pittsburgh.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718010000 +0200" stop="20250718030000 +0200" channel="icehockey3iceweek1bostonvspittsburgh">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Ice Hockey : 3ICE Week 1 : Boston vs Pittsburgh</desc>
+    <category lang="it">Ice Hockey</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717120000 +0200" channel="nationalrugbyleagueredcliffevsnqcowboys">
+    <title lang="it">Inizia alle 12:00.</title>
+    <desc lang="it">National Rugby League : Redcliffe vs NQ Cowboys.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717120000 +0200" stop="20250717140000 +0200" channel="nationalrugbyleagueredcliffevsnqcowboys">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">National Rugby League : Redcliffe vs NQ Cowboys</desc>
+    <category lang="it">Rugby League</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717120000 +0200" channel="nationalrugbyleagueredcliffevsnqcowboys">
+    <title lang="it">Inizia alle 12:00.</title>
+    <desc lang="it">National Rugby League : Redcliffe vs NQ Cowboys.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717120000 +0200" stop="20250717140000 +0200" channel="nationalrugbyleagueredcliffevsnqcowboys">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">National Rugby League : Redcliffe vs NQ Cowboys</desc>
+    <category lang="it">Rugby League</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717120000 +0200" channel="nationalrugbyleagueredcliffevsnqcowboys">
+    <title lang="it">Inizia alle 12:00.</title>
+    <desc lang="it">National Rugby League : Redcliffe vs NQ Cowboys.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717120000 +0200" stop="20250717140000 +0200" channel="nationalrugbyleagueredcliffevsnqcowboys">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">National Rugby League : Redcliffe vs NQ Cowboys</desc>
+    <category lang="it">Rugby League</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="superleaguerugbysthelensvsleighcenturions">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Super League Rugby : St Helens vs Leigh Centurions.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="superleaguerugbysthelensvsleighcenturions">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Super League Rugby : St Helens vs Leigh Centurions</desc>
+    <category lang="it">Rugby League</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="superleaguerugbysthelensvsleighcenturions">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Super League Rugby : St Helens vs Leigh Centurions.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="superleaguerugbysthelensvsleighcenturions">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Super League Rugby : St Helens vs Leigh Centurions</desc>
+    <category lang="it">Rugby League</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="superleaguerugbysthelensvsleighcenturions">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Super League Rugby : St Helens vs Leigh Centurions.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="superleaguerugbysthelensvsleighcenturions">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Super League Rugby : St Helens vs Leigh Centurions</desc>
+    <category lang="it">Rugby League</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="superleaguerugbysthelensvsleighcenturions">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Super League Rugby : St Helens vs Leigh Centurions.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="superleaguerugbysthelensvsleighcenturions">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Super League Rugby : St Helens vs Leigh Centurions</desc>
+    <category lang="it">Rugby League</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="superleaguerugbysthelensvsleighcenturions">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Super League Rugby : St Helens vs Leigh Centurions.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="superleaguerugbysthelensvsleighcenturions">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Super League Rugby : St Helens vs Leigh Centurions</desc>
+    <category lang="it">Rugby League</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717170000 +0200" channel="premierpadelroundof16travelp1">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">Premier Padel, Round of 16 Travel P1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717170000 +0200" stop="20250717190000 +0200" channel="premierpadelroundof16travelp1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Premier Padel, Round of 16 Travel P1</desc>
+    <category lang="it">Squash</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717170000 +0200" channel="premierpadelroundof16travelp1">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">Premier Padel, Round of 16 Travel P1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717170000 +0200" stop="20250717190000 +0200" channel="premierpadelroundof16travelp1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Premier Padel, Round of 16 Travel P1</desc>
+    <category lang="it">Squash</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717190000 +0200" channel="padelmlagap1premierpadel">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">Padel: Málaga P1 - Premier Padel.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717190000 +0200" stop="20250717210000 +0200" channel="padelmlagap1premierpadel">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Padel: Málaga P1 - Premier Padel</desc>
+    <category lang="it">Squash</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717190000 +0200" channel="padelmlagap1premierpadel">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">Padel: Málaga P1 - Premier Padel.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717190000 +0200" stop="20250717210000 +0200" channel="padelmlagap1premierpadel">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Padel: Málaga P1 - Premier Padel</desc>
+    <category lang="it">Squash</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="padelmlagap1premierpadel">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Padel: Málaga P1 - Premier Padel.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="padelmlagap1premierpadel">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Padel: Málaga P1 - Premier Padel</desc>
+    <category lang="it">Squash</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="padelmlagap1premierpadel">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Padel: Málaga P1 - Premier Padel.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="padelmlagap1premierpadel">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Padel: Málaga P1 - Premier Padel</desc>
+    <category lang="it">Squash</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717122000 +0200" channel="nationsleagueargentinavsjapan">
+    <title lang="it">Inizia alle 12:20.</title>
+    <desc lang="it">Nations League : Argentina vs Japan.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717122000 +0200" stop="20250717142000 +0200" channel="nationsleagueargentinavsjapan">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Nations League : Argentina vs Japan</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717122000 +0200" channel="nationsleagueargentinavsjapan">
+    <title lang="it">Inizia alle 12:20.</title>
+    <desc lang="it">Nations League : Argentina vs Japan.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717122000 +0200" stop="20250717142000 +0200" channel="nationsleagueargentinavsjapan">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Nations League : Argentina vs Japan</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717122000 +0200" channel="nationsleagueargentinavsjapan">
+    <title lang="it">Inizia alle 12:20.</title>
+    <desc lang="it">Nations League : Argentina vs Japan.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717122000 +0200" stop="20250717142000 +0200" channel="nationsleagueargentinavsjapan">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Nations League : Argentina vs Japan</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717122000 +0200" channel="nationsleagueargentinavsjapan">
+    <title lang="it">Inizia alle 12:20.</title>
+    <desc lang="it">Nations League : Argentina vs Japan.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717122000 +0200" stop="20250717142000 +0200" channel="nationsleagueargentinavsjapan">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Nations League : Argentina vs Japan</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717122000 +0200" channel="nationsleagueargentinavsjapan">
+    <title lang="it">Inizia alle 12:20.</title>
+    <desc lang="it">Nations League : Argentina vs Japan.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717122000 +0200" stop="20250717142000 +0200" channel="nationsleagueargentinavsjapan">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Nations League : Argentina vs Japan</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717163000 +0200" channel="nationsleagueukrainevsitaly">
+    <title lang="it">Inizia alle 16:30.</title>
+    <desc lang="it">Nations League : Ukraine vs Italy.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717163000 +0200" stop="20250717183000 +0200" channel="nationsleagueukrainevsitaly">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Nations League : Ukraine vs Italy</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717163000 +0200" channel="nationsleagueukrainevsitaly">
+    <title lang="it">Inizia alle 16:30.</title>
+    <desc lang="it">Nations League : Ukraine vs Italy.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717163000 +0200" stop="20250717183000 +0200" channel="nationsleagueukrainevsitaly">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Nations League : Ukraine vs Italy</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717163000 +0200" channel="nationsleagueukrainevsitaly">
+    <title lang="it">Inizia alle 16:30.</title>
+    <desc lang="it">Nations League : Ukraine vs Italy.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717163000 +0200" stop="20250717183000 +0200" channel="nationsleagueukrainevsitaly">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Nations League : Ukraine vs Italy</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717163000 +0200" channel="nationsleaguechinavsiran">
+    <title lang="it">Inizia alle 16:30.</title>
+    <desc lang="it">Nations League : China vs Iran.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717163000 +0200" stop="20250717183000 +0200" channel="nationsleaguechinavsiran">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Nations League : China vs Iran</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717163000 +0200" channel="nationsleaguechinavsiran">
+    <title lang="it">Inizia alle 16:30.</title>
+    <desc lang="it">Nations League : China vs Iran.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717163000 +0200" stop="20250717183000 +0200" channel="nationsleaguechinavsiran">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Nations League : China vs Iran</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717200000 +0200" channel="nationsleaguecubavspoland">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">Nations League : Cuba vs Poland.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717200000 +0200" stop="20250717220000 +0200" channel="nationsleaguecubavspoland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Nations League : Cuba vs Poland</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717200000 +0200" channel="nationsleaguecubavspoland">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">Nations League : Cuba vs Poland.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717200000 +0200" stop="20250717220000 +0200" channel="nationsleaguecubavspoland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Nations League : Cuba vs Poland</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717200000 +0200" channel="nationsleaguecubavspoland">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">Nations League : Cuba vs Poland.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717200000 +0200" stop="20250717220000 +0200" channel="nationsleaguecubavspoland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Nations League : Cuba vs Poland</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717200000 +0200" channel="nationsleaguecubavspoland">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">Nations League : Cuba vs Poland.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717200000 +0200" stop="20250717220000 +0200" channel="nationsleaguecubavspoland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Nations League : Cuba vs Poland</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717203000 +0200" channel="nationsleaguenetherlandsvsslovenia">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">Nations League : Netherlands vs Slovenia.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717203000 +0200" stop="20250717223000 +0200" channel="nationsleaguenetherlandsvsslovenia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Nations League : Netherlands vs Slovenia</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717203000 +0200" channel="nationsleaguenetherlandsvsslovenia">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">Nations League : Netherlands vs Slovenia.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717203000 +0200" stop="20250717223000 +0200" channel="nationsleaguenetherlandsvsslovenia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Nations League : Netherlands vs Slovenia</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717203000 +0200" channel="nationsleaguenetherlandsvsslovenia">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">Nations League : Netherlands vs Slovenia.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717203000 +0200" stop="20250717223000 +0200" channel="nationsleaguenetherlandsvsslovenia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Nations League : Netherlands vs Slovenia</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717203000 +0200" channel="nationsleaguenetherlandsvsslovenia">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">Nations League : Netherlands vs Slovenia.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717203000 +0200" stop="20250717223000 +0200" channel="nationsleaguenetherlandsvsslovenia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Nations League : Netherlands vs Slovenia</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717170000 +0200" channel="worlduniversitygameswomensfinal10msynchronizedplatform">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">World University Games | Women's Final 10m synchronized platform.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717170000 +0200" stop="20250717190000 +0200" channel="worlduniversitygameswomensfinal10msynchronizedplatform">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World University Games | Women's Final 10m synchronized platform</desc>
+    <category lang="it">Water Sports</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717170000 +0200" channel="worlduniversitygameswomensfinal10msynchronizedplatform">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">World University Games | Women's Final 10m synchronized platform.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717170000 +0200" stop="20250717190000 +0200" channel="worlduniversitygameswomensfinal10msynchronizedplatform">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World University Games | Women's Final 10m synchronized platform</desc>
+    <category lang="it">Water Sports</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717170000 +0200" channel="worlduniversitygameswomensfinal10msynchronizedplatform">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">World University Games | Women's Final 10m synchronized platform.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717170000 +0200" stop="20250717190000 +0200" channel="worlduniversitygameswomensfinal10msynchronizedplatform">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World University Games | Women's Final 10m synchronized platform</desc>
+    <category lang="it">Water Sports</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717170000 +0200" channel="worlduniversitygameswomensfinal10msynchronizedplatform">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">World University Games | Women's Final 10m synchronized platform.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717170000 +0200" stop="20250717190000 +0200" channel="worlduniversitygameswomensfinal10msynchronizedplatform">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World University Games | Women's Final 10m synchronized platform</desc>
+    <category lang="it">Water Sports</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717170000 +0200" channel="worlduniversitygameswomensfinal10msynchronizedplatform">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">World University Games | Women's Final 10m synchronized platform.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717170000 +0200" stop="20250717190000 +0200" channel="worlduniversitygameswomensfinal10msynchronizedplatform">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World University Games | Women's Final 10m synchronized platform</desc>
+    <category lang="it">Water Sports</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717170000 +0200" channel="worlduniversitygameswomensfinal10msynchronizedplatform">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">World University Games | Women's Final 10m synchronized platform.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717170000 +0200" stop="20250717190000 +0200" channel="worlduniversitygameswomensfinal10msynchronizedplatform">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World University Games | Women's Final 10m synchronized platform</desc>
+    <category lang="it">Water Sports</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717170000 +0200" channel="worlduniversitygameswomensfinal10msynchronizedplatform">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">World University Games | Women's Final 10m synchronized platform.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717170000 +0200" stop="20250717190000 +0200" channel="worlduniversitygameswomensfinal10msynchronizedplatform">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World University Games | Women's Final 10m synchronized platform</desc>
+    <category lang="it">Water Sports</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250717170000 +0200" channel="worlduniversitygameswomensfinal10msynchronizedplatform">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">World University Games | Women's Final 10m synchronized platform.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717170000 +0200" stop="20250717190000 +0200" channel="worlduniversitygameswomensfinal10msynchronizedplatform">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World University Games | Women's Final 10m synchronized platform</desc>
+    <category lang="it">Water Sports</category>
+  </programme>
+  <programme start="20250717000000 +0200" stop="20250718013000 +0200" channel="worldaquaticschampionshipsopenwaterswimming5kmwomen">
+    <title lang="it">Inizia alle 01:30.</title>
+    <desc lang="it">World Aquatics Championships Open Water Swimming - 5 km Women.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718013000 +0200" stop="20250718033000 +0200" channel="worldaquaticschampionshipsopenwaterswimming5kmwomen">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Aquatics Championships Open Water Swimming - 5 km Women</desc>
+    <category lang="it">Water Sports</category>
+  </programme>
 </tv>
