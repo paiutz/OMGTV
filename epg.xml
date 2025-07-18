@@ -66920,9 +66920,6 @@ Spada; Richard Judge - You &amp; I</desc>
   <channel id="atptour250bastadgstaadloscaboswtatour250budapesthamburg">
     <display-name>ATP Tour 250 Bastad, Gstaad, Los Cabos, WTA Tour 250 Budapest, Hamburg</display-name>
   </channel>
-  <channel id="moto2czechrepublicgpfreepractice1">
-    <display-name>Moto2 : Czech Republic GP Free Practice 1</display-name>
-  </channel>
   <channel id="wrcrallyestoniaspecialstages4and5day2">
     <display-name>WRC Rally Estonia | Special Stages 4 and 5 | Day 2</display-name>
   </channel>
@@ -67046,9 +67043,6 @@ Spada; Richard Judge - You &amp; I</desc>
   <channel id="liveracingfromaroundtheuk">
     <display-name>Live racing from around the UK</display-name>
   </channel>
-  <channel id="nationalrugbyleaguecronullasharksvssydneyroosters">
-    <display-name>National Rugby League : Cronulla Sharks vs Sydney Roosters</display-name>
-  </channel>
   <channel id="nationalrugbyleaguepenrithpanthersvssouthsydneyrabbitohs">
     <display-name>National Rugby League : Penrith Panthers vs South Sydney Rabbitohs</display-name>
   </channel>
@@ -67057,12 +67051,6 @@ Spada; Richard Judge - You &amp; I</desc>
   </channel>
   <channel id="superleaguerugbyleedsrhinosvssalfordreddevils">
     <display-name>Super League Rugby : Leeds Rhinos vs Salford Red Devils</display-name>
-  </channel>
-  <channel id="friendlyinternationalsamoavsscotland">
-    <display-name>Friendly International : Samoa vs Scotland</display-name>
-  </channel>
-  <channel id="premierpadelmlagat2025womensquarterfinal1">
-    <display-name>Premier Padel. Málaga (T2025): Women's Quarterfinal 1</display-name>
   </channel>
   <channel id="premierpadelmlagat2025womensquarterfinal4">
     <display-name>Premier Padel. Málaga (T2025): Women's Quarterfinal 4</display-name>
@@ -68612,156 +68600,6 @@ Spada; Richard Judge - You &amp; I</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">ATP Tour 250 Bastad, Gstaad, Los Cabos, WTA Tour 250 Budapest, Hamburg</desc>
     <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718094500 +0200" channel="moto2czechrepublicgpfreepractice1">
-    <title lang="it">Inizia alle 09:45.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718094500 +0200" stop="20250718114500 +0200" channel="moto2czechrepublicgpfreepractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Free Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718094500 +0200" channel="moto2czechrepublicgpfreepractice1">
-    <title lang="it">Inizia alle 09:45.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718094500 +0200" stop="20250718114500 +0200" channel="moto2czechrepublicgpfreepractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Free Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718094500 +0200" channel="moto2czechrepublicgpfreepractice1">
-    <title lang="it">Inizia alle 09:45.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718094500 +0200" stop="20250718114500 +0200" channel="moto2czechrepublicgpfreepractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Free Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718094500 +0200" channel="moto2czechrepublicgpfreepractice1">
-    <title lang="it">Inizia alle 09:45.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718094500 +0200" stop="20250718114500 +0200" channel="moto2czechrepublicgpfreepractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Free Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718094500 +0200" channel="moto2czechrepublicgpfreepractice1">
-    <title lang="it">Inizia alle 09:45.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718094500 +0200" stop="20250718114500 +0200" channel="moto2czechrepublicgpfreepractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Free Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718094500 +0200" channel="moto2czechrepublicgpfreepractice1">
-    <title lang="it">Inizia alle 09:45.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718094500 +0200" stop="20250718114500 +0200" channel="moto2czechrepublicgpfreepractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Free Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718094500 +0200" channel="moto2czechrepublicgpfreepractice1">
-    <title lang="it">Inizia alle 09:45.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718094500 +0200" stop="20250718114500 +0200" channel="moto2czechrepublicgpfreepractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Free Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718094500 +0200" channel="moto2czechrepublicgpfreepractice1">
-    <title lang="it">Inizia alle 09:45.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718094500 +0200" stop="20250718114500 +0200" channel="moto2czechrepublicgpfreepractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Free Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718094500 +0200" channel="moto2czechrepublicgpfreepractice1">
-    <title lang="it">Inizia alle 09:45.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718094500 +0200" stop="20250718114500 +0200" channel="moto2czechrepublicgpfreepractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Free Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718094500 +0200" channel="moto2czechrepublicgpfreepractice1">
-    <title lang="it">Inizia alle 09:45.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718094500 +0200" stop="20250718114500 +0200" channel="moto2czechrepublicgpfreepractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Free Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718094500 +0200" channel="moto2czechrepublicgpfreepractice1">
-    <title lang="it">Inizia alle 09:45.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718094500 +0200" stop="20250718114500 +0200" channel="moto2czechrepublicgpfreepractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Free Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718094500 +0200" channel="moto2czechrepublicgpfreepractice1">
-    <title lang="it">Inizia alle 09:45.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718094500 +0200" stop="20250718114500 +0200" channel="moto2czechrepublicgpfreepractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Free Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718094500 +0200" channel="moto2czechrepublicgpfreepractice1">
-    <title lang="it">Inizia alle 09:45.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718094500 +0200" stop="20250718114500 +0200" channel="moto2czechrepublicgpfreepractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Free Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718094500 +0200" channel="moto2czechrepublicgpfreepractice1">
-    <title lang="it">Inizia alle 09:45.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718094500 +0200" stop="20250718114500 +0200" channel="moto2czechrepublicgpfreepractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Free Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718094500 +0200" channel="moto2czechrepublicgpfreepractice1">
-    <title lang="it">Inizia alle 09:45.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718094500 +0200" stop="20250718114500 +0200" channel="moto2czechrepublicgpfreepractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Free Practice 1</desc>
-    <category lang="it">Motorsport</category>
   </programme>
   <programme start="20250718000000 +0200" stop="20250718104500 +0200" channel="wrcrallyestoniaspecialstages4and5day2">
     <title lang="it">Inizia alle 10:45.</title>
@@ -70693,46 +70531,6 @@ Spada; Richard Judge - You &amp; I</desc>
     <desc lang="it">Live racing from around the UK</desc>
     <category lang="it">Horse Racing</category>
   </programme>
-  <programme start="20250718000000 +0200" stop="20250718100000 +0200" channel="nationalrugbyleaguecronullasharksvssydneyroosters">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">National Rugby League : Cronulla Sharks vs Sydney Roosters.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718100000 +0200" stop="20250718120000 +0200" channel="nationalrugbyleaguecronullasharksvssydneyroosters">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">National Rugby League : Cronulla Sharks vs Sydney Roosters</desc>
-    <category lang="it">Rugby League</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718100000 +0200" channel="nationalrugbyleaguecronullasharksvssydneyroosters">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">National Rugby League : Cronulla Sharks vs Sydney Roosters.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718100000 +0200" stop="20250718120000 +0200" channel="nationalrugbyleaguecronullasharksvssydneyroosters">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">National Rugby League : Cronulla Sharks vs Sydney Roosters</desc>
-    <category lang="it">Rugby League</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718100000 +0200" channel="nationalrugbyleaguecronullasharksvssydneyroosters">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">National Rugby League : Cronulla Sharks vs Sydney Roosters.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718100000 +0200" stop="20250718120000 +0200" channel="nationalrugbyleaguecronullasharksvssydneyroosters">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">National Rugby League : Cronulla Sharks vs Sydney Roosters</desc>
-    <category lang="it">Rugby League</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718100000 +0200" channel="nationalrugbyleaguecronullasharksvssydneyroosters">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">National Rugby League : Cronulla Sharks vs Sydney Roosters.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718100000 +0200" stop="20250718120000 +0200" channel="nationalrugbyleaguecronullasharksvssydneyroosters">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">National Rugby League : Cronulla Sharks vs Sydney Roosters</desc>
-    <category lang="it">Rugby League</category>
-  </programme>
   <programme start="20250718000000 +0200" stop="20250718120000 +0200" channel="nationalrugbyleaguepenrithpanthersvssouthsydneyrabbitohs">
     <title lang="it">Inizia alle 12:00.</title>
     <desc lang="it">National Rugby League : Penrith Panthers vs South Sydney Rabbitohs.</desc>
@@ -70813,66 +70611,6 @@ Spada; Richard Judge - You &amp; I</desc>
     <desc lang="it">Super League Rugby : Leeds Rhinos vs Salford Red Devils</desc>
     <category lang="it">Rugby League</category>
   </programme>
-  <programme start="20250718000000 +0200" stop="20250718100500 +0200" channel="friendlyinternationalsamoavsscotland">
-    <title lang="it">Inizia alle 10:05.</title>
-    <desc lang="it">Friendly International : Samoa vs Scotland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718100500 +0200" stop="20250718120500 +0200" channel="friendlyinternationalsamoavsscotland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Friendly International : Samoa vs Scotland</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718100500 +0200" channel="friendlyinternationalsamoavsscotland">
-    <title lang="it">Inizia alle 10:05.</title>
-    <desc lang="it">Friendly International : Samoa vs Scotland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718100500 +0200" stop="20250718120500 +0200" channel="friendlyinternationalsamoavsscotland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Friendly International : Samoa vs Scotland</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718100000 +0200" channel="premierpadelmlagat2025womensquarterfinal1">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Premier Padel. Málaga (T2025): Women's Quarterfinal 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718100000 +0200" stop="20250718120000 +0200" channel="premierpadelmlagat2025womensquarterfinal1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Premier Padel. Málaga (T2025): Women's Quarterfinal 1</desc>
-    <category lang="it">Squash</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718100000 +0200" channel="premierpadelmlagat2025womensquarterfinal1">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Premier Padel. Málaga (T2025): Women's Quarterfinal 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718100000 +0200" stop="20250718120000 +0200" channel="premierpadelmlagat2025womensquarterfinal1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Premier Padel. Málaga (T2025): Women's Quarterfinal 1</desc>
-    <category lang="it">Squash</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718100000 +0200" channel="premierpadelmlagat2025womensquarterfinal1">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Premier Padel. Málaga (T2025): Women's Quarterfinal 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718100000 +0200" stop="20250718120000 +0200" channel="premierpadelmlagat2025womensquarterfinal1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Premier Padel. Málaga (T2025): Women's Quarterfinal 1</desc>
-    <category lang="it">Squash</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718100000 +0200" channel="premierpadelmlagat2025womensquarterfinal1">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Premier Padel. Málaga (T2025): Women's Quarterfinal 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718100000 +0200" stop="20250718120000 +0200" channel="premierpadelmlagat2025womensquarterfinal1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Premier Padel. Málaga (T2025): Women's Quarterfinal 1</desc>
-    <category lang="it">Squash</category>
-  </programme>
   <programme start="20250718000000 +0200" stop="20250718120000 +0200" channel="premierpadelmlagat2025womensquarterfinal4">
     <title lang="it">Inizia alle 12:00.</title>
     <desc lang="it">Premier Padel. Málaga (T2025): Women's Quarterfinal 4.</desc>
@@ -71202,16 +70940,6 @@ Spada; Richard Judge - You &amp; I</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Nations League : Netherlands vs Canada</desc>
     <category lang="it">Volleyball</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718100000 +0200" channel="worldaquaticschampionshipsmenswaterpoloplayoff">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">World Aquatics Championships Men's water polo playoff.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718100000 +0200" stop="20250718120000 +0200" channel="worldaquaticschampionshipsmenswaterpoloplayoff">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Aquatics Championships Men's water polo playoff</desc>
-    <category lang="it">Water Sports</category>
   </programme>
   <programme start="20250718000000 +0200" stop="20250718130000 +0200" channel="worldaquaticschampionshipsmenswaterpoloplayoff">
     <title lang="it">Inizia alle 13:00.</title>
