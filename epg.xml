@@ -66846,7 +66846,46 @@ Alex Gaudino Ft. Kelly Rowland - What A Feeling</desc>
     <category>Children</category>
     <category>Animated</category>
   </programme>
-<channel id="pokerwptprimechampionshippart3">
+<channel id="truegritwrestlingshowtimeslamtruegritprideshow2025">
+    <display-name>True Grit Wrestling: Showtime Slam - True Grit Pride Show 2025</display-name>
+  </channel>
+  <channel id="2025americanflattrackatlucasoilshorttrack">
+    <display-name>2025 American Flat Track at Lucas Oil Short Track</display-name>
+  </channel>
+  <channel id="worldofoutlawssprintcars">
+    <display-name>World of Outlaws Sprint Cars</display-name>
+  </channel>
+  <channel id="2025midseasonchampionshipatautodromegranby">
+    <display-name>2025 Mid-Season Championship at Autodrome Granby</display-name>
+  </channel>
+  <channel id="2025southernnationalsatswainsbororaceway">
+    <display-name>2025 Southern Nationals at Swainsboro Raceway</display-name>
+  </channel>
+  <channel id="karatecombat55">
+    <display-name>Karate Combat 55</display-name>
+  </channel>
+  <channel id="xtremeoutlawmidgetsspoonriverspeedway">
+    <display-name>Xtreme Outlaw Midgets Spoon River Speedway</display-name>
+  </channel>
+  <channel id="americansprintcarseriescreekcounty">
+    <display-name>American Sprint Car Series Creek County</display-name>
+  </channel>
+  <channel id="williamsgrovesprintsspeedway">
+    <display-name>Williams Grove Sprints Speedway</display-name>
+  </channel>
+  <channel id="2025lucasoilsilverdollarnationalsathusetsspeedway">
+    <display-name>2025 Lucas Oil Silver Dollar Nationals at Huset's Speedway</display-name>
+  </channel>
+  <channel id="narchowardkaedingclassicocean">
+    <display-name>NARC Howard Kaeding Classic Ocean</display-name>
+  </channel>
+  <channel id="2025imcaweeklyracingatmarshalltownspeedway">
+    <display-name>2025 IMCA Weekly Racing at Marshalltown Speedway</display-name>
+  </channel>
+  <channel id="2025marslatemodelsatfarmercityraceway">
+    <display-name>2025 MARS Late Models at Farmer City Raceway</display-name>
+  </channel>
+  <channel id="pokerwptprimechampionshippart3">
     <display-name>Poker : WPT Prime Championship - Part 3</display-name>
   </channel>
   <channel id="fanduelracing">
@@ -66857,9 +66896,6 @@ Alex Gaudino Ft. Kelly Rowland - What A Feeling</desc>
   </channel>
   <channel id="wyldepakwarriorsagainsttherealmsungandeul">
     <display-name>Wylde Pak Warriors Against the Realm; Sungandeul</display-name>
-  </channel>
-  <channel id="chinasuperleaguetianjintigersvschengdurongcheng">
-    <display-name>China - Super League : Tianjin Tigers vs Chengdu Rongcheng</display-name>
   </channel>
   <channel id="bulgariaparvaligacska1948vsarda">
     <display-name>Bulgaria - Parva Liga : CSKA 1948 vs Arda</display-name>
@@ -66966,11 +67002,29 @@ Alex Gaudino Ft. Kelly Rowland - What A Feeling</desc>
   <channel id="gsl2025tbcvstbcfinal">
     <display-name>GSL 2025 - TBC vs TBC - Final</display-name>
   </channel>
-  <channel id="moto3czechrepublicgppractice">
-    <display-name>Moto3 : Czech Republic GP Practice</display-name>
+  <channel id="hopmancupbronzettilvspaquetc">
+    <display-name>HOPMAN CUP : Bronzetti L. vs Paquet C.</display-name>
   </channel>
-  <channel id="moto2czechrepublicgppractice">
-    <display-name>Moto2 : Czech Republic GP Practice</display-name>
+  <channel id="hopmancupandreescubvsbassolsm">
+    <display-name>HOPMAN CUP : Andreescu B. vs Bassols M.</display-name>
+  </channel>
+  <channel id="hopmancupcobollifvsgasquetr">
+    <display-name>HOPMAN CUP : Cobolli F. vs Gasquet R.</display-name>
+  </channel>
+  <channel id="hopmancupaugeraliassimefvsbautistaagutr">
+    <display-name>HOPMAN CUP : Auger-Aliassime F. vs Bautista-Agut R.</display-name>
+  </channel>
+  <channel id="atpbastadcerundolofvsdzumhurd">
+    <display-name>ATP - BASTAD : Cerundolo F. vs Dzumhur D.</display-name>
+  </channel>
+  <channel id="atpgstaadcomesanafvsbublika">
+    <display-name>ATP - GSTAAD : Comesana F. vs Bublik A.</display-name>
+  </channel>
+  <channel id="atpgstaadkymjvscazauxa">
+    <display-name>ATP - GSTAAD : Kym J. vs Cazaux A.</display-name>
+  </channel>
+  <channel id="wtahamburgboissonlvstomovav">
+    <display-name>WTA - HAMBURG : Boisson L. vs Tomova V.</display-name>
   </channel>
   <channel id="wrcrallyestoniaspecialstages6day2">
     <display-name>WRC Rally Estonia | Special Stages 6 | Day 2</display-name>
@@ -67047,9 +67101,6 @@ Alex Gaudino Ft. Kelly Rowland - What A Feeling</desc>
   <channel id="mlbtampabayraysvsbaltimoreorioles">
     <display-name>MLB : Tampa Bay Rays vs Baltimore Orioles</display-name>
   </channel>
-  <channel id="basketballwasiancupplayofffor12finalsb">
-    <display-name>Basketball (W) - Asian Cup: Play-off for 1/2 Finals B</display-name>
-  </channel>
   <channel id="basket3x3protournovagradika">
     <display-name>Basket 3x3 Pro Tour: Nova Gradiška</display-name>
   </channel>
@@ -67061,9 +67112,6 @@ Alex Gaudino Ft. Kelly Rowland - What A Feeling</desc>
   </channel>
   <channel id="thebasketballtournamentwarreadyvsxrayted">
     <display-name>The Basketball Tournament : War Ready vs X-Rayted</display-name>
-  </channel>
-  <channel id="tourdefranceuciworldtourstage13loudenvielletopeyragudesitt10km650m">
-    <display-name>Tour de France UCI World Tour Stage 13 - Loudenvielle to Peyragudes ITT | 10 km | 650 m</display-name>
   </channel>
   <channel id="longinesfeijumpingeuropeanchampionshipacorua2025t2025secondcompetitionsecondroundteamfinal">
     <display-name>Longines FEI Jumping European Championship A Coruña 2025 (T2025): Second Competition. Second Round. Team Final</display-name>
@@ -67079,9 +67127,6 @@ Alex Gaudino Ft. Kelly Rowland - What A Feeling</desc>
   </channel>
   <channel id="superleaguerugbyleedsrhinosvssalfordreddevils">
     <display-name>Super League Rugby : Leeds Rhinos vs Salford Red Devils</display-name>
-  </channel>
-  <channel id="premierpadelmlagat2025mensquarterfinal4">
-    <display-name>Premier Padel. Málaga (T2025): Men's Quarterfinal 4</display-name>
   </channel>
   <channel id="premierpadelmlagat2025womensquarterfinal3">
     <display-name>Premier Padel. Málaga (T2025): Women's Quarterfinal 3</display-name>
@@ -67101,11 +67146,11 @@ Alex Gaudino Ft. Kelly Rowland - What A Feeling</desc>
   <channel id="nationsleaguenetherlandsvscanada">
     <display-name>Nations League : Netherlands vs Canada</display-name>
   </channel>
-  <channel id="worldaquaticschampionshipsmenswaterpoloplayoff">
-    <display-name>World Aquatics Championships Men's water polo playoff</display-name>
-  </channel>
   <channel id="summeruniversity2025jumpinginthewaterwomensynchronousjumping3mtrampoline">
     <display-name>Summer University - 2025. Jumping in the water. Women. Synchronous jumping. 3 m trampoline</display-name>
+  </channel>
+  <channel id="worldaquaticschampionshipsmenswaterpoloplayoff">
+    <display-name>World Aquatics Championships Men's water polo playoff</display-name>
   </channel>
   <channel id="summeruniversity2025jumpingintothewatermen3mtrampoline">
     <display-name>Summer University - 2025. Jumping into the water. Men. 3 m trampoline</display-name>
@@ -67113,6 +67158,136 @@ Alex Gaudino Ft. Kelly Rowland - What A Feeling</desc>
   <channel id="swimmingsummeruniversiaderhineruhr2025day2">
     <display-name>Swimming: Summer Universiade - Rhine-Ruhr 2025 Day 2</display-name>
   </channel>
+  <programme start="20250718000000 +0200" stop="20250718200000 +0200" channel="truegritwrestlingshowtimeslamtruegritprideshow2025">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">True Grit Wrestling: Showtime Slam - True Grit Pride Show 2025.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718200000 +0200" stop="20250718220000 +0200" channel="truegritwrestlingshowtimeslamtruegritprideshow2025">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">True Grit Wrestling: Showtime Slam - True Grit Pride Show 2025</desc>
+    <category lang="it">PPV Events</category>
+  </programme>
+  <programme start="20250718000000 +0200" stop="20250718220000 +0200" channel="2025americanflattrackatlucasoilshorttrack">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">2025 American Flat Track at Lucas Oil Short Track.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250718220000 +0200" stop="20250719000000 +0200" channel="2025americanflattrackatlucasoilshorttrack">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 American Flat Track at Lucas Oil Short Track</desc>
+    <category lang="it">PPV Events</category>
+  </programme>
+  <programme start="20250718000000 +0200" stop="20250719001500 +0200" channel="worldofoutlawssprintcars">
+    <title lang="it">Inizia alle 00:15.</title>
+    <desc lang="it">World of Outlaws Sprint Cars.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250719001500 +0200" stop="20250719021500 +0200" channel="worldofoutlawssprintcars">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World of Outlaws Sprint Cars</desc>
+    <category lang="it">PPV Events</category>
+  </programme>
+  <programme start="20250718000000 +0200" stop="20250719002000 +0200" channel="2025midseasonchampionshipatautodromegranby">
+    <title lang="it">Inizia alle 00:20.</title>
+    <desc lang="it">2025 Mid-Season Championship at Autodrome Granby.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250719002000 +0200" stop="20250719022000 +0200" channel="2025midseasonchampionshipatautodromegranby">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 Mid-Season Championship at Autodrome Granby</desc>
+    <category lang="it">PPV Events</category>
+  </programme>
+  <programme start="20250718000000 +0200" stop="20250719010000 +0200" channel="2025southernnationalsatswainsbororaceway">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">2025 Southern Nationals at Swainsboro Raceway.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250719010000 +0200" stop="20250719030000 +0200" channel="2025southernnationalsatswainsbororaceway">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 Southern Nationals at Swainsboro Raceway</desc>
+    <category lang="it">PPV Events</category>
+  </programme>
+  <programme start="20250718000000 +0200" stop="20250719010000 +0200" channel="karatecombat55">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">Karate Combat 55.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250719010000 +0200" stop="20250719030000 +0200" channel="karatecombat55">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Karate Combat 55</desc>
+    <category lang="it">PPV Events</category>
+  </programme>
+  <programme start="20250718000000 +0200" stop="20250719011500 +0200" channel="xtremeoutlawmidgetsspoonriverspeedway">
+    <title lang="it">Inizia alle 01:15.</title>
+    <desc lang="it">Xtreme Outlaw Midgets Spoon River Speedway.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250719011500 +0200" stop="20250719031500 +0200" channel="xtremeoutlawmidgetsspoonriverspeedway">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Xtreme Outlaw Midgets Spoon River Speedway</desc>
+    <category lang="it">PPV Events</category>
+  </programme>
+  <programme start="20250718000000 +0200" stop="20250719011500 +0200" channel="americansprintcarseriescreekcounty">
+    <title lang="it">Inizia alle 01:15.</title>
+    <desc lang="it">American Sprint Car Series Creek County.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250719011500 +0200" stop="20250719031500 +0200" channel="americansprintcarseriescreekcounty">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">American Sprint Car Series Creek County</desc>
+    <category lang="it">PPV Events</category>
+  </programme>
+  <programme start="20250718000000 +0200" stop="20250719013000 +0200" channel="williamsgrovesprintsspeedway">
+    <title lang="it">Inizia alle 01:30.</title>
+    <desc lang="it">Williams Grove Sprints Speedway.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250719013000 +0200" stop="20250719033000 +0200" channel="williamsgrovesprintsspeedway">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Williams Grove Sprints Speedway</desc>
+    <category lang="it">PPV Events</category>
+  </programme>
+  <programme start="20250718000000 +0200" stop="20250719013000 +0200" channel="2025lucasoilsilverdollarnationalsathusetsspeedway">
+    <title lang="it">Inizia alle 01:30.</title>
+    <desc lang="it">2025 Lucas Oil Silver Dollar Nationals at Huset's Speedway.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250719013000 +0200" stop="20250719033000 +0200" channel="2025lucasoilsilverdollarnationalsathusetsspeedway">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 Lucas Oil Silver Dollar Nationals at Huset's Speedway</desc>
+    <category lang="it">PPV Events</category>
+  </programme>
+  <programme start="20250718000000 +0200" stop="20250719013000 +0200" channel="narchowardkaedingclassicocean">
+    <title lang="it">Inizia alle 01:30.</title>
+    <desc lang="it">NARC Howard Kaeding Classic Ocean.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250719013000 +0200" stop="20250719033000 +0200" channel="narchowardkaedingclassicocean">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NARC Howard Kaeding Classic Ocean</desc>
+    <category lang="it">PPV Events</category>
+  </programme>
+  <programme start="20250718000000 +0200" stop="20250719013000 +0200" channel="2025imcaweeklyracingatmarshalltownspeedway">
+    <title lang="it">Inizia alle 01:30.</title>
+    <desc lang="it">2025 IMCA Weekly Racing at Marshalltown Speedway.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250719013000 +0200" stop="20250719033000 +0200" channel="2025imcaweeklyracingatmarshalltownspeedway">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 IMCA Weekly Racing at Marshalltown Speedway</desc>
+    <category lang="it">PPV Events</category>
+  </programme>
+  <programme start="20250718000000 +0200" stop="20250719013000 +0200" channel="2025marslatemodelsatfarmercityraceway">
+    <title lang="it">Inizia alle 01:30.</title>
+    <desc lang="it">2025 MARS Late Models at Farmer City Raceway.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250719013000 +0200" stop="20250719033000 +0200" channel="2025marslatemodelsatfarmercityraceway">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 MARS Late Models at Farmer City Raceway</desc>
+    <category lang="it">PPV Events</category>
+  </programme>
   <programme start="20250718000000 +0200" stop="20250718170000 +0200" channel="pokerwptprimechampionshippart3">
     <title lang="it">Inizia alle 17:00.</title>
     <desc lang="it">Poker : WPT Prime Championship - Part 3.</desc>
@@ -67162,16 +67337,6 @@ Alex Gaudino Ft. Kelly Rowland - What A Feeling</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Wylde Pak Warriors Against the Realm; Sungandeul</desc>
     <category lang="it">TV Shows</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718133500 +0200" channel="chinasuperleaguetianjintigersvschengdurongcheng">
-    <title lang="it">Inizia alle 13:35.</title>
-    <desc lang="it">China - Super League : Tianjin Tigers vs Chengdu Rongcheng.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718133500 +0200" stop="20250718153500 +0200" channel="chinasuperleaguetianjintigersvschengdurongcheng">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">China - Super League : Tianjin Tigers vs Chengdu Rongcheng</desc>
-    <category lang="it">Soccer</category>
   </programme>
   <programme start="20250718000000 +0200" stop="20250718180000 +0200" channel="bulgariaparvaligacska1948vsarda">
     <title lang="it">Inizia alle 18:00.</title>
@@ -68473,325 +68638,85 @@ Alex Gaudino Ft. Kelly Rowland - What A Feeling</desc>
     <desc lang="it">GSL 2025 - TBC vs TBC - Final</desc>
     <category lang="it">Cricket</category>
   </programme>
-  <programme start="20250718000000 +0200" stop="20250718131500 +0200" channel="moto3czechrepublicgppractice">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">Moto3 : Czech Republic GP Practice.</desc>
+  <programme start="20250718000000 +0200" stop="20250718173000 +0200" channel="hopmancupbronzettilvspaquetc">
+    <title lang="it">Inizia alle 17:30.</title>
+    <desc lang="it">HOPMAN CUP : Bronzetti L. vs Paquet C..</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250718131500 +0200" stop="20250718151500 +0200" channel="moto3czechrepublicgppractice">
+  <programme start="20250718173000 +0200" stop="20250718193000 +0200" channel="hopmancupbronzettilvspaquetc">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
+    <desc lang="it">HOPMAN CUP : Bronzetti L. vs Paquet C.</desc>
+    <category lang="it">HOPMAN CUP</category>
   </programme>
-  <programme start="20250718000000 +0200" stop="20250718131500 +0200" channel="moto3czechrepublicgppractice">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">Moto3 : Czech Republic GP Practice.</desc>
+  <programme start="20250718000000 +0200" stop="20250718173000 +0200" channel="hopmancupandreescubvsbassolsm">
+    <title lang="it">Inizia alle 17:30.</title>
+    <desc lang="it">HOPMAN CUP : Andreescu B. vs Bassols M..</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250718131500 +0200" stop="20250718151500 +0200" channel="moto3czechrepublicgppractice">
+  <programme start="20250718173000 +0200" stop="20250718193000 +0200" channel="hopmancupandreescubvsbassolsm">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
+    <desc lang="it">HOPMAN CUP : Andreescu B. vs Bassols M.</desc>
+    <category lang="it">HOPMAN CUP</category>
   </programme>
-  <programme start="20250718000000 +0200" stop="20250718131500 +0200" channel="moto3czechrepublicgppractice">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">Moto3 : Czech Republic GP Practice.</desc>
+  <programme start="20250718000000 +0200" stop="20250718190000 +0200" channel="hopmancupcobollifvsgasquetr">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">HOPMAN CUP : Cobolli F. vs Gasquet R..</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250718131500 +0200" stop="20250718151500 +0200" channel="moto3czechrepublicgppractice">
+  <programme start="20250718190000 +0200" stop="20250718210000 +0200" channel="hopmancupcobollifvsgasquetr">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
+    <desc lang="it">HOPMAN CUP : Cobolli F. vs Gasquet R.</desc>
+    <category lang="it">HOPMAN CUP</category>
   </programme>
-  <programme start="20250718000000 +0200" stop="20250718131500 +0200" channel="moto3czechrepublicgppractice">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">Moto3 : Czech Republic GP Practice.</desc>
+  <programme start="20250718000000 +0200" stop="20250718190000 +0200" channel="hopmancupaugeraliassimefvsbautistaagutr">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">HOPMAN CUP : Auger-Aliassime F. vs Bautista-Agut R..</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250718131500 +0200" stop="20250718151500 +0200" channel="moto3czechrepublicgppractice">
+  <programme start="20250718190000 +0200" stop="20250718210000 +0200" channel="hopmancupaugeraliassimefvsbautistaagutr">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
+    <desc lang="it">HOPMAN CUP : Auger-Aliassime F. vs Bautista-Agut R.</desc>
+    <category lang="it">HOPMAN CUP</category>
   </programme>
-  <programme start="20250718000000 +0200" stop="20250718131500 +0200" channel="moto3czechrepublicgppractice">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">Moto3 : Czech Republic GP Practice.</desc>
+  <programme start="20250718000000 +0200" stop="20250718153000 +0200" channel="atpbastadcerundolofvsdzumhurd">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">ATP - BASTAD : Cerundolo F. vs Dzumhur D..</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250718131500 +0200" stop="20250718151500 +0200" channel="moto3czechrepublicgppractice">
+  <programme start="20250718153000 +0200" stop="20250718173000 +0200" channel="atpbastadcerundolofvsdzumhurd">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
+    <desc lang="it">ATP - BASTAD : Cerundolo F. vs Dzumhur D.</desc>
+    <category lang="it">ATP - BASTAD</category>
   </programme>
-  <programme start="20250718000000 +0200" stop="20250718131500 +0200" channel="moto3czechrepublicgppractice">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">Moto3 : Czech Republic GP Practice.</desc>
+  <programme start="20250718000000 +0200" stop="20250718150000 +0200" channel="atpgstaadcomesanafvsbublika">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">ATP - GSTAAD : Comesana F. vs Bublik A..</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250718131500 +0200" stop="20250718151500 +0200" channel="moto3czechrepublicgppractice">
+  <programme start="20250718150000 +0200" stop="20250718170000 +0200" channel="atpgstaadcomesanafvsbublika">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
+    <desc lang="it">ATP - GSTAAD : Comesana F. vs Bublik A.</desc>
+    <category lang="it">ATP - GSTAAD</category>
   </programme>
-  <programme start="20250718000000 +0200" stop="20250718131500 +0200" channel="moto3czechrepublicgppractice">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">Moto3 : Czech Republic GP Practice.</desc>
+  <programme start="20250718000000 +0200" stop="20250718173000 +0200" channel="atpgstaadkymjvscazauxa">
+    <title lang="it">Inizia alle 17:30.</title>
+    <desc lang="it">ATP - GSTAAD : Kym J. vs Cazaux A..</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250718131500 +0200" stop="20250718151500 +0200" channel="moto3czechrepublicgppractice">
+  <programme start="20250718173000 +0200" stop="20250718193000 +0200" channel="atpgstaadkymjvscazauxa">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
+    <desc lang="it">ATP - GSTAAD : Kym J. vs Cazaux A.</desc>
+    <category lang="it">ATP - GSTAAD</category>
   </programme>
-  <programme start="20250718000000 +0200" stop="20250718131500 +0200" channel="moto3czechrepublicgppractice">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">Moto3 : Czech Republic GP Practice.</desc>
+  <programme start="20250718000000 +0200" stop="20250718170000 +0200" channel="wtahamburgboissonlvstomovav">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">WTA - HAMBURG : Boisson L. vs Tomova V..</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250718131500 +0200" stop="20250718151500 +0200" channel="moto3czechrepublicgppractice">
+  <programme start="20250718170000 +0200" stop="20250718190000 +0200" channel="wtahamburgboissonlvstomovav">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718131500 +0200" channel="moto3czechrepublicgppractice">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">Moto3 : Czech Republic GP Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718131500 +0200" stop="20250718151500 +0200" channel="moto3czechrepublicgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718131500 +0200" channel="moto3czechrepublicgppractice">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">Moto3 : Czech Republic GP Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718131500 +0200" stop="20250718151500 +0200" channel="moto3czechrepublicgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718131500 +0200" channel="moto3czechrepublicgppractice">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">Moto3 : Czech Republic GP Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718131500 +0200" stop="20250718151500 +0200" channel="moto3czechrepublicgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718131500 +0200" channel="moto3czechrepublicgppractice">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">Moto3 : Czech Republic GP Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718131500 +0200" stop="20250718151500 +0200" channel="moto3czechrepublicgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718131500 +0200" channel="moto3czechrepublicgppractice">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">Moto3 : Czech Republic GP Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718131500 +0200" stop="20250718151500 +0200" channel="moto3czechrepublicgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718131500 +0200" channel="moto3czechrepublicgppractice">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">Moto3 : Czech Republic GP Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718131500 +0200" stop="20250718151500 +0200" channel="moto3czechrepublicgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718131500 +0200" channel="moto3czechrepublicgppractice">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">Moto3 : Czech Republic GP Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718131500 +0200" stop="20250718151500 +0200" channel="moto3czechrepublicgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718131500 +0200" channel="moto3czechrepublicgppractice">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">Moto3 : Czech Republic GP Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718131500 +0200" stop="20250718151500 +0200" channel="moto3czechrepublicgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718140000 +0200" channel="moto2czechrepublicgppractice">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718140000 +0200" stop="20250718160000 +0200" channel="moto2czechrepublicgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718140000 +0200" channel="moto2czechrepublicgppractice">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718140000 +0200" stop="20250718160000 +0200" channel="moto2czechrepublicgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718140000 +0200" channel="moto2czechrepublicgppractice">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718140000 +0200" stop="20250718160000 +0200" channel="moto2czechrepublicgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718140000 +0200" channel="moto2czechrepublicgppractice">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718140000 +0200" stop="20250718160000 +0200" channel="moto2czechrepublicgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718140000 +0200" channel="moto2czechrepublicgppractice">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718140000 +0200" stop="20250718160000 +0200" channel="moto2czechrepublicgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718140000 +0200" channel="moto2czechrepublicgppractice">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718140000 +0200" stop="20250718160000 +0200" channel="moto2czechrepublicgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718140000 +0200" channel="moto2czechrepublicgppractice">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718140000 +0200" stop="20250718160000 +0200" channel="moto2czechrepublicgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718140000 +0200" channel="moto2czechrepublicgppractice">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718140000 +0200" stop="20250718160000 +0200" channel="moto2czechrepublicgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718140000 +0200" channel="moto2czechrepublicgppractice">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718140000 +0200" stop="20250718160000 +0200" channel="moto2czechrepublicgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718140000 +0200" channel="moto2czechrepublicgppractice">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718140000 +0200" stop="20250718160000 +0200" channel="moto2czechrepublicgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718140000 +0200" channel="moto2czechrepublicgppractice">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718140000 +0200" stop="20250718160000 +0200" channel="moto2czechrepublicgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718140000 +0200" channel="moto2czechrepublicgppractice">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718140000 +0200" stop="20250718160000 +0200" channel="moto2czechrepublicgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718140000 +0200" channel="moto2czechrepublicgppractice">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718140000 +0200" stop="20250718160000 +0200" channel="moto2czechrepublicgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718140000 +0200" channel="moto2czechrepublicgppractice">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718140000 +0200" stop="20250718160000 +0200" channel="moto2czechrepublicgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718140000 +0200" channel="moto2czechrepublicgppractice">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718140000 +0200" stop="20250718160000 +0200" channel="moto2czechrepublicgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718140000 +0200" channel="moto2czechrepublicgppractice">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718140000 +0200" stop="20250718160000 +0200" channel="moto2czechrepublicgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
+    <desc lang="it">WTA - HAMBURG : Boisson L. vs Tomova V.</desc>
+    <category lang="it">WTA - HAMBURG</category>
   </programme>
   <programme start="20250718000000 +0200" stop="20250718144500 +0200" channel="wrcrallyestoniaspecialstages6day2">
     <title lang="it">Inizia alle 14:45.</title>
@@ -69403,16 +69328,6 @@ Alex Gaudino Ft. Kelly Rowland - What A Feeling</desc>
     <desc lang="it">PGA Tour Barracuda Championship</desc>
     <category lang="it">Golf</category>
   </programme>
-  <programme start="20250718000000 +0200" stop="20250718130000 +0200" channel="championshipleaguesnookersecondround">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Championship League Snooker, Second Round.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718130000 +0200" stop="20250718150000 +0200" channel="championshipleaguesnookersecondround">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Championship League Snooker, Second Round</desc>
-    <category lang="it">Snooker</category>
-  </programme>
   <programme start="20250718000000 +0200" stop="20250718180000 +0200" channel="championshipleaguesnookersecondround">
     <title lang="it">Inizia alle 18:00.</title>
     <desc lang="it">Championship League Snooker, Second Round.</desc>
@@ -69923,16 +69838,6 @@ Alex Gaudino Ft. Kelly Rowland - What A Feeling</desc>
     <desc lang="it">MLB : Tampa Bay Rays vs Baltimore Orioles</desc>
     <category lang="it">Baseball</category>
   </programme>
-  <programme start="20250718000000 +0200" stop="20250718133000 +0200" channel="basketballwasiancupplayofffor12finalsb">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Basketball (W) - Asian Cup: Play-off for 1/2 Finals B.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718133000 +0200" stop="20250718153000 +0200" channel="basketballwasiancupplayofffor12finalsb">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Basketball (W) - Asian Cup: Play-off for 1/2 Finals B</desc>
-    <category lang="it">Basketball</category>
-  </programme>
   <programme start="20250718000000 +0200" stop="20250718190000 +0200" channel="basket3x3protournovagradika">
     <title lang="it">Inizia alle 19:00.</title>
     <desc lang="it">Basket 3x3 Pro Tour: Nova Gradiška.</desc>
@@ -69992,66 +69897,6 @@ Alex Gaudino Ft. Kelly Rowland - What A Feeling</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">The Basketball Tournament : War Ready vs X-Rayted</desc>
     <category lang="it">Basketball</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718130000 +0200" channel="tourdefranceuciworldtourstage13loudenvielletopeyragudesitt10km650m">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Tour de France UCI World Tour Stage 13 - Loudenvielle to Peyragudes ITT | 10 km | 650 m.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718130000 +0200" stop="20250718150000 +0200" channel="tourdefranceuciworldtourstage13loudenvielletopeyragudesitt10km650m">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour de France UCI World Tour Stage 13 - Loudenvielle to Peyragudes ITT | 10 km | 650 m</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718130000 +0200" channel="tourdefranceuciworldtourstage13loudenvielletopeyragudesitt10km650m">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Tour de France UCI World Tour Stage 13 - Loudenvielle to Peyragudes ITT | 10 km | 650 m.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718130000 +0200" stop="20250718150000 +0200" channel="tourdefranceuciworldtourstage13loudenvielletopeyragudesitt10km650m">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour de France UCI World Tour Stage 13 - Loudenvielle to Peyragudes ITT | 10 km | 650 m</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718130000 +0200" channel="tourdefranceuciworldtourstage13loudenvielletopeyragudesitt10km650m">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Tour de France UCI World Tour Stage 13 - Loudenvielle to Peyragudes ITT | 10 km | 650 m.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718130000 +0200" stop="20250718150000 +0200" channel="tourdefranceuciworldtourstage13loudenvielletopeyragudesitt10km650m">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour de France UCI World Tour Stage 13 - Loudenvielle to Peyragudes ITT | 10 km | 650 m</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718130000 +0200" channel="tourdefranceuciworldtourstage13loudenvielletopeyragudesitt10km650m">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Tour de France UCI World Tour Stage 13 - Loudenvielle to Peyragudes ITT | 10 km | 650 m.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718130000 +0200" stop="20250718150000 +0200" channel="tourdefranceuciworldtourstage13loudenvielletopeyragudesitt10km650m">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour de France UCI World Tour Stage 13 - Loudenvielle to Peyragudes ITT | 10 km | 650 m</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718130000 +0200" channel="tourdefranceuciworldtourstage13loudenvielletopeyragudesitt10km650m">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Tour de France UCI World Tour Stage 13 - Loudenvielle to Peyragudes ITT | 10 km | 650 m.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718130000 +0200" stop="20250718150000 +0200" channel="tourdefranceuciworldtourstage13loudenvielletopeyragudesitt10km650m">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour de France UCI World Tour Stage 13 - Loudenvielle to Peyragudes ITT | 10 km | 650 m</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718130000 +0200" channel="tourdefranceuciworldtourstage13loudenvielletopeyragudesitt10km650m">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Tour de France UCI World Tour Stage 13 - Loudenvielle to Peyragudes ITT | 10 km | 650 m.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718130000 +0200" stop="20250718150000 +0200" channel="tourdefranceuciworldtourstage13loudenvielletopeyragudesitt10km650m">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour de France UCI World Tour Stage 13 - Loudenvielle to Peyragudes ITT | 10 km | 650 m</desc>
-    <category lang="it">Cycling</category>
   </programme>
   <programme start="20250718000000 +0200" stop="20250718160000 +0200" channel="longinesfeijumpingeuropeanchampionshipacorua2025t2025secondcompetitionsecondroundteamfinal">
     <title lang="it">Inizia alle 16:00.</title>
@@ -70123,36 +69968,6 @@ Alex Gaudino Ft. Kelly Rowland - What A Feeling</desc>
     <desc lang="it">Super League Rugby : Leeds Rhinos vs Salford Red Devils</desc>
     <category lang="it">Rugby League</category>
   </programme>
-  <programme start="20250718000000 +0200" stop="20250718140000 +0200" channel="premierpadelmlagat2025mensquarterfinal4">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Premier Padel. Málaga (T2025): Men's Quarterfinal 4.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718140000 +0200" stop="20250718160000 +0200" channel="premierpadelmlagat2025mensquarterfinal4">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Premier Padel. Málaga (T2025): Men's Quarterfinal 4</desc>
-    <category lang="it">Squash</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718140000 +0200" channel="premierpadelmlagat2025mensquarterfinal4">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Premier Padel. Málaga (T2025): Men's Quarterfinal 4.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718140000 +0200" stop="20250718160000 +0200" channel="premierpadelmlagat2025mensquarterfinal4">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Premier Padel. Málaga (T2025): Men's Quarterfinal 4</desc>
-    <category lang="it">Squash</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718140000 +0200" channel="premierpadelmlagat2025mensquarterfinal4">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Premier Padel. Málaga (T2025): Men's Quarterfinal 4.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718140000 +0200" stop="20250718160000 +0200" channel="premierpadelmlagat2025mensquarterfinal4">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Premier Padel. Málaga (T2025): Men's Quarterfinal 4</desc>
-    <category lang="it">Squash</category>
-  </programme>
   <programme start="20250718000000 +0200" stop="20250718160000 +0200" channel="premierpadelmlagat2025womensquarterfinal3">
     <title lang="it">Inizia alle 16:00.</title>
     <desc lang="it">Premier Padel. Málaga (T2025): Women's Quarterfinal 3.</desc>
@@ -70352,16 +70167,6 @@ Alex Gaudino Ft. Kelly Rowland - What A Feeling</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Nations League : Netherlands vs Canada</desc>
     <category lang="it">Volleyball</category>
-  </programme>
-  <programme start="20250718000000 +0200" stop="20250718130000 +0200" channel="worldaquaticschampionshipsmenswaterpoloplayoff">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">World Aquatics Championships Men's water polo playoff.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718130000 +0200" stop="20250718150000 +0200" channel="worldaquaticschampionshipsmenswaterpoloplayoff">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Aquatics Championships Men's water polo playoff</desc>
-    <category lang="it">Water Sports</category>
   </programme>
   <programme start="20250718000000 +0200" stop="20250718143000 +0200" channel="summeruniversity2025jumpinginthewaterwomensynchronousjumping3mtrampoline">
     <title lang="it">Inizia alle 14:30.</title>
