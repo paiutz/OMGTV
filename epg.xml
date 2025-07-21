@@ -58693,9 +58693,6 @@ Psy	- Gangnam Style</desc>
   <channel id="ultimatepoolpairscupmixedgroupstage">
     <display-name>Ultimate Pool Pairs Cup | Mixed | Group Stage</display-name>
   </channel>
-  <channel id="baseballnpborixbuffaloesvschibalottemarines">
-    <display-name>Baseball NPB : Orix Buffaloes vs Chiba Lotte Marines</display-name>
-  </channel>
   <channel id="mlbbaltimoreoriolesvsclevelandguardians">
     <display-name>MLB : Baltimore Orioles vs Cleveland Guardians</display-name>
   </channel>
@@ -59771,16 +59768,6 @@ Psy	- Gangnam Style</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Ultimate Pool Pairs Cup | Mixed | Group Stage</desc>
     <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20250721000000 +0200" stop="20250721100000 +0200" channel="baseballnpborixbuffaloesvschibalottemarines">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Baseball NPB : Orix Buffaloes vs Chiba Lotte Marines.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250721100000 +0200" stop="20250721120000 +0200" channel="baseballnpborixbuffaloesvschibalottemarines">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Baseball NPB : Orix Buffaloes vs Chiba Lotte Marines</desc>
-    <category lang="it">Baseball</category>
   </programme>
   <programme start="20250721000000 +0200" stop="20250722004000 +0200" channel="mlbbaltimoreoriolesvsclevelandguardians">
     <title lang="it">Inizia alle 00:40.</title>
