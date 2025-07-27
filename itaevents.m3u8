@@ -1,4 +1,37 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="PPV - MainStage | Tomorrowland 2025 LIVE - PPV - MainStage | Tomorrowland 2025 LIVE" tvg-name="17:00 PPV - MainStage | Tomorrowland 2025 LIVE - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-161.php
+
+#EXTINF:-1 tvg-id="PPV - Freedom Stage | Tomorrowland Belgium 2025 LIVE - PPV - Freedom Stage | Tomorrowland Belgium 2025 LIVE" tvg-name="17:00 PPV - Freedom Stage | Tomorrowland Belgium 2025 LIVE - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-162.php
+
+#EXTINF:-1 tvg-id="Porsche Sprint Challenge Lauguna Seca - Porsche Sprint Challenge Lauguna Seca" tvg-name="17:30 Porsche Sprint Challenge Lauguna Seca - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-163.php
+
+#EXTINF:-1 tvg-id="2025 NASCAR Modifieds at Riverhead Raceway - 2025 NASCAR Modifieds at Riverhead Raceway" tvg-name="19:00 2025 NASCAR Modifieds at Riverhead Raceway - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-164.php
+
+#EXTINF:-1 tvg-id="2025 IRA Sprints at Angell Park Speedway - 2025 IRA Sprints at Angell Park Speedway" tvg-name="23:30 2025 IRA Sprints at Angell Park Speedway - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-108.php
+
+#EXTINF:-1 tvg-id="2025 USAC Indiana Sprint Week at Lawrenceburg Speedway - 2025 USAC Indiana Sprint Week at Lawrenceburg Speedway" tvg-name="00:00 2025 USAC Indiana Sprint Week at Lawrenceburg Speedway - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-109.php
+
+#EXTINF:-1 tvg-id="World of Outlaws Sprint Cars Weedsport - World of Outlaws Sprint Cars Weedsport" tvg-name="00:45 World of Outlaws Sprint Cars Weedsport - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-110.php
+
+#EXTINF:-1 tvg-id="2025 Carl Wegner Memorial at Slinger Speedway - 2025 Carl Wegner Memorial at Slinger Speedway" tvg-name="00:45 2025 Carl Wegner Memorial at Slinger Speedway - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-151.php
+
+#EXTINF:-1 tvg-id="Husets Sprint Cars - Husets Sprint Cars" tvg-name="01:25 Husets Sprint Cars - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-152.php
+
+#EXTINF:-1 tvg-id="Anthony Pettis FC 18 - Anthony Pettis FC 18" tvg-name="02:00 Anthony Pettis FC 18 - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-153.php
+
+#EXTINF:-1 tvg-id="EBI 24 - The Bantamweights" tvg-name="03:00 EBI 24: The Bantamweights - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", UFC Fight Pass
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-154.php
+
 #EXTINF:-1 tvg-id="Club Friendly - Midlands Wanderers vs Richards Bay" tvg-name="09:00 Club Friendly : Midlands Wanderers vs Richards Bay - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport PSL
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-413.php
 
