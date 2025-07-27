@@ -1,41 +1,41 @@
 Report Estrazione Link da thisnot.business
 ===========================================
 
-Pagina Evento: https://thisnot.business/player.php?id=ArenaSP1_ME
-  Dettagli: Categoria='CALCIO', Evento='13:30 Arsenal - Newcastle', Canale='Arena Sport'
-  Stato Estrazione: OK - Proxy generato: https://ale-1-7fk5.onrender.com/proxy/mpd/manifest.m3u8?api_password=gf4&d=https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd&key_id=ddf7a6d83eb05ab48a757b638244af57&key=720eb820e035ebe9f9a84e9f258282a1,96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66,7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
-
-Pagina Evento: https://thisnot.business/player.php?id=RaiSport
-  Dettagli: Categoria='CALCIO', Evento='18:00 Inghilterra - Spagna', Canale='Rai'
-  Stato Estrazione: OK - Proxy generato: https://ale-1-7fk5.onrender.com/proxy/mpd/manifest.m3u8?api_password=gf4&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
-
-Pagina Evento: https://thisnot.business/player.php?id=RTE2
-  Dettagli: Categoria='CALCIO', Evento='18:00 Inghilterra - Spagna', Canale='RTE'
-  Stato Estrazione: OK - Proxy generato: https://ale-1-7fk5.onrender.com/proxy/mpd/manifest.m3u8?api_password=gf4&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
-
-Pagina Evento: https://thisnot.business/player.php?id=ArenaSP1_ME
-  Dettagli: Categoria='CALCIO', Evento='13:30 Arsenal - Newcastle', Canale='Arena Sport'
-  Stato Estrazione: OK - Proxy generato: https://ale-1-7fk5.onrender.com/proxy/mpd/manifest.m3u8?api_password=gf4&d=https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd&key_id=ddf7a6d83eb05ab48a757b638244af57&key=720eb820e035ebe9f9a84e9f258282a1,96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66,7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
-
-Pagina Evento: https://thisnot.business/player.php?id=RaiSport
-  Dettagli: Categoria='CALCIO', Evento='18:00 Inghilterra - Spagna', Canale='Rai'
-  Stato Estrazione: OK - Proxy generato: https://ale-1-7fk5.onrender.com/proxy/mpd/manifest.m3u8?api_password=gf4&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
-
-Pagina Evento: https://thisnot.business/player.php?id=RTE2
-  Dettagli: Categoria='CALCIO', Evento='18:00 Inghilterra - Spagna', Canale='RTE'
-  Stato Estrazione: OK - Proxy generato: https://ale-1-7fk5.onrender.com/proxy/mpd/manifest.m3u8?api_password=gf4&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
-
 Pagina Evento: https://thisnot.business/player.php?id=SportF1_DE
-  Dettagli: Categoria='FORMULA 1', Evento='15:00 Gara', Canale='Sky Sport'
+  Dettagli: Categoria='FORMULA 1', Evento='16:20* Gara', Canale='Sky Sport'
   Stato Estrazione: OK - Proxy generato: https://ale-1-7fk5.onrender.com/proxy/mpd/manifest.m3u8?api_password=gf4&d=https://linear201-de-dash1-prd-ak.cdn12.skycdp.com/032111-50/index.mpd&key_id=000b4b05b463b25ac9474c6b8de9242a&key=108e1dc2c98ce68de84cbfd1b1715c03
 
 Pagina Evento: https://thisnot.business/player.php?id=RSILA2
-  Dettagli: Categoria='FORMULA 1', Evento='15:00 Gara', Canale='RSI'
+  Dettagli: Categoria='FORMULA 1', Evento='16:20* Gara', Canale='RSI'
   Stato Estrazione: OK - Proxy generato: https://ale-1-7fk5.onrender.com/proxy/mpd/manifest.m3u8?api_password=gf4&d=https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 
 Pagina Evento: https://thisnot.business/player.php?id=TSN5
-  Dettagli: Categoria='FORMULA 1', Evento='15:00 Gara', Canale='TSN (VPN CANADA)'
+  Dettagli: Categoria='FORMULA 1', Evento='16:20* Gara', Canale='TSN (VPN CANADA)'
   Stato Estrazione: OK - Proxy generato: https://ale-1-7fk5.onrender.com/proxy/mpd/manifest.m3u8?api_password=gf4&d=https://live-cito.9c9media.ca/5d56690552e77e26848799912ac055919f78d5e71725017868382/f/tsn5/manifest.mpd&key_id=f4608dc9b6164cd7b96791af91cc334c&key=8d4bc6537629d3f7ad5aa4e75516f6da
+
+Pagina Evento: https://thisnot.business/player.php?id=ArenaSP1_ME
+  Dettagli: Categoria='CALCIO', Evento='13:30 Arsenal - Newcastle', Canale='Arena Sport'
+  Stato Estrazione: OK - Proxy generato: https://ale-1-7fk5.onrender.com/proxy/mpd/manifest.m3u8?api_password=gf4&d=https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd&key_id=ddf7a6d83eb05ab48a757b638244af57&key=720eb820e035ebe9f9a84e9f258282a1,96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66,7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
+
+Pagina Evento: https://thisnot.business/player.php?id=RaiSport
+  Dettagli: Categoria='CALCIO', Evento='18:00 Inghilterra - Spagna', Canale='Rai'
+  Stato Estrazione: OK - Proxy generato: https://ale-1-7fk5.onrender.com/proxy/mpd/manifest.m3u8?api_password=gf4&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+
+Pagina Evento: https://thisnot.business/player.php?id=RTE2
+  Dettagli: Categoria='CALCIO', Evento='18:00 Inghilterra - Spagna', Canale='RTE'
+  Stato Estrazione: OK - Proxy generato: https://ale-1-7fk5.onrender.com/proxy/mpd/manifest.m3u8?api_password=gf4&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
+
+Pagina Evento: https://thisnot.business/player.php?id=ArenaSP1_ME
+  Dettagli: Categoria='CALCIO', Evento='13:30 Arsenal - Newcastle', Canale='Arena Sport'
+  Stato Estrazione: OK - Proxy generato: https://ale-1-7fk5.onrender.com/proxy/mpd/manifest.m3u8?api_password=gf4&d=https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd&key_id=ddf7a6d83eb05ab48a757b638244af57&key=720eb820e035ebe9f9a84e9f258282a1,96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66,7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
+
+Pagina Evento: https://thisnot.business/player.php?id=RaiSport
+  Dettagli: Categoria='CALCIO', Evento='18:00 Inghilterra - Spagna', Canale='Rai'
+  Stato Estrazione: OK - Proxy generato: https://ale-1-7fk5.onrender.com/proxy/mpd/manifest.m3u8?api_password=gf4&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+
+Pagina Evento: https://thisnot.business/player.php?id=RTE2
+  Dettagli: Categoria='CALCIO', Evento='18:00 Inghilterra - Spagna', Canale='RTE'
+  Stato Estrazione: OK - Proxy generato: https://ale-1-7fk5.onrender.com/proxy/mpd/manifest.m3u8?api_password=gf4&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
 
 Pagina Evento: https://thisnot.business/player.php?id=ZiggoSP1
   Dettagli: Categoria='TENNIS', Evento='23:00 Fokina - De Minaur', Canale='Ziggo'
