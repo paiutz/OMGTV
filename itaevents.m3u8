@@ -1343,32 +1343,32 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-18.php
 #EXTINF:-1 tvg-id="Shooting European Championships 2025 - Shooting European Championships 2025" tvg-name="17:20 Shooting European Championships 2025 - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Shooting", Sport en France
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-18.php
 
-#EXTINF:-1 tvg-id="Women's Volleyball - Nations League match for 3rd place" tvg-name="15:45 Women's Volleyball: Nations League match for 3rd place - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="Nations League Women 3rd place - Poland W vs Japan W" tvg-name="15:45 Nations League Women 3rd place : Poland W vs Japan W - 27/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751967401_poland-w-x-sweden-w.png" group-title="Pallavolo", Polsat Sport 1 Poland
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-47.php
 
-#EXTINF:-1 tvg-id="Women's Volleyball - Nations League match for 3rd place" tvg-name="15:45 Women's Volleyball: Nations League match for 3rd place - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Arena Premium 3 Serbia
+#EXTINF:-1 tvg-id="Nations League Women 3rd place - Poland W vs Japan W" tvg-name="15:45 Nations League Women 3rd place : Poland W vs Japan W - 27/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751967401_poland-w-x-sweden-w.png" group-title="Pallavolo", Arena Premium 3 Serbia
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-139.php
 
-#EXTINF:-1 tvg-id="Women's Volleyball - Nations League match for 3rd place" tvg-name="15:45 Women's Volleyball: Nations League match for 3rd place - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", MAX Sport 2 Bulgaria
+#EXTINF:-1 tvg-id="Nations League Women 3rd place - Poland W vs Japan W" tvg-name="15:45 Nations League Women 3rd place : Poland W vs Japan W - 27/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751967401_poland-w-x-sweden-w.png" group-title="Pallavolo", MAX Sport 2 Bulgaria
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-473.php
 
-#EXTINF:-1 tvg-id="Women's Volleyball - Nations League match for 3rd place" tvg-name="15:45 Women's Volleyball: Nations League match for 3rd place - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sport Klub 3 Croatia
+#EXTINF:-1 tvg-id="Nations League Women 3rd place - Poland W vs Japan W" tvg-name="15:45 Nations League Women 3rd place : Poland W vs Japan W - 27/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751967401_poland-w-x-sweden-w.png" group-title="Pallavolo", Sport Klub 3 Croatia
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
 
-#EXTINF:-1 tvg-id="Women's Volleyball - Nations League final match" tvg-name="20:00 Women's Volleyball: Nations League final match - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="Nations League Women final match - Italy W vs Brazil W" tvg-name="20:00 Nations League Women final match : Italy W vs Brazil W - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 1 Poland
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-47.php
 
-#EXTINF:-1 tvg-id="Women's Volleyball - Nations League final match" tvg-name="20:00 Women's Volleyball: Nations League final match - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Arena Premium 3 Serbia
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-139.php
-
-#EXTINF:-1 tvg-id="Women's Volleyball - Nations League final match" tvg-name="20:00 Women's Volleyball: Nations League final match - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", MAX Sport 2 Bulgaria
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-473.php
-
-#EXTINF:-1 tvg-id="Women's Volleyball - Nations League final match" tvg-name="20:00 Women's Volleyball: Nations League final match - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sport Klub 3 Croatia
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
-
-#EXTINF:-1 tvg-id="FIVB Volleyball Women's Nations League Final - Teams TBA" tvg-name="21:00 FIVB Volleyball Women's Nations League Final: Teams TBA - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", CBS Sports Network USA
+#EXTINF:-1 tvg-id="Nations League Women final match - Italy W vs Brazil W" tvg-name="20:00 Nations League Women final match : Italy W vs Brazil W - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", CBS Sports Network USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-308.php
+
+#EXTINF:-1 tvg-id="Nations League Women final match - Italy W vs Brazil W" tvg-name="20:00 Nations League Women final match : Italy W vs Brazil W - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Arena Premium 3 Serbia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-139.php
+
+#EXTINF:-1 tvg-id="Nations League Women final match - Italy W vs Brazil W" tvg-name="20:00 Nations League Women final match : Italy W vs Brazil W - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", MAX Sport 2 Bulgaria
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-473.php
+
+#EXTINF:-1 tvg-id="Nations League Women final match - Italy W vs Brazil W" tvg-name="20:00 Nations League Women final match : Italy W vs Brazil W - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sport Klub 3 Croatia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
 
 #EXTINF:-1 tvg-id="World Championship in Water Sports. Haydaying. Men. - World Championship in Water Sports. Haydaying. Men." tvg-name="05:00 World Championship in Water Sports. Haydaying. Men. - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water Sports", Match TV Russia
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-127.php

@@ -531,14 +531,14 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/277580225585f50
 #EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24 [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY] (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio (2)" tvg-logo="" group-title="Sport",SKY SPORT CALCIO (V) (2)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/449990998077a7691828f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/42467740561588897497f2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/309353533094c3ad269514&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY] (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -560,9 +560,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/271195962000118
 
 #EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport Nba (2)" tvg-logo="" group-title="Sport",SKY SPORT NBA (V) (2)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportseriea.it" tvg-name="Sky Sport Serie A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Sport",SKY SPORT SERIE A (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2077387085cfe0f64122dc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -3181,32 +3178,32 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-18.php
 #EXTINF:-1 tvg-id="Shooting European Championships 2025 - Shooting European Championships 2025" tvg-name="17:20 Shooting European Championships 2025 - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Shooting", Sport en France
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-18.php
 
-#EXTINF:-1 tvg-id="Women's Volleyball - Nations League match for 3rd place" tvg-name="15:45 Women's Volleyball: Nations League match for 3rd place - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="Nations League Women 3rd place - Poland W vs Japan W" tvg-name="15:45 Nations League Women 3rd place : Poland W vs Japan W - 27/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751967401_poland-w-x-sweden-w.png" group-title="Pallavolo", Polsat Sport 1 Poland
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-47.php
 
-#EXTINF:-1 tvg-id="Women's Volleyball - Nations League match for 3rd place" tvg-name="15:45 Women's Volleyball: Nations League match for 3rd place - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Arena Premium 3 Serbia
+#EXTINF:-1 tvg-id="Nations League Women 3rd place - Poland W vs Japan W" tvg-name="15:45 Nations League Women 3rd place : Poland W vs Japan W - 27/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751967401_poland-w-x-sweden-w.png" group-title="Pallavolo", Arena Premium 3 Serbia
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-139.php
 
-#EXTINF:-1 tvg-id="Women's Volleyball - Nations League match for 3rd place" tvg-name="15:45 Women's Volleyball: Nations League match for 3rd place - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", MAX Sport 2 Bulgaria
+#EXTINF:-1 tvg-id="Nations League Women 3rd place - Poland W vs Japan W" tvg-name="15:45 Nations League Women 3rd place : Poland W vs Japan W - 27/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751967401_poland-w-x-sweden-w.png" group-title="Pallavolo", MAX Sport 2 Bulgaria
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-473.php
 
-#EXTINF:-1 tvg-id="Women's Volleyball - Nations League match for 3rd place" tvg-name="15:45 Women's Volleyball: Nations League match for 3rd place - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sport Klub 3 Croatia
+#EXTINF:-1 tvg-id="Nations League Women 3rd place - Poland W vs Japan W" tvg-name="15:45 Nations League Women 3rd place : Poland W vs Japan W - 27/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751967401_poland-w-x-sweden-w.png" group-title="Pallavolo", Sport Klub 3 Croatia
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
 
-#EXTINF:-1 tvg-id="Women's Volleyball - Nations League final match" tvg-name="20:00 Women's Volleyball: Nations League final match - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="Nations League Women final match - Italy W vs Brazil W" tvg-name="20:00 Nations League Women final match : Italy W vs Brazil W - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 1 Poland
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-47.php
 
-#EXTINF:-1 tvg-id="Women's Volleyball - Nations League final match" tvg-name="20:00 Women's Volleyball: Nations League final match - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Arena Premium 3 Serbia
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-139.php
-
-#EXTINF:-1 tvg-id="Women's Volleyball - Nations League final match" tvg-name="20:00 Women's Volleyball: Nations League final match - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", MAX Sport 2 Bulgaria
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-473.php
-
-#EXTINF:-1 tvg-id="Women's Volleyball - Nations League final match" tvg-name="20:00 Women's Volleyball: Nations League final match - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sport Klub 3 Croatia
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
-
-#EXTINF:-1 tvg-id="FIVB Volleyball Women's Nations League Final - Teams TBA" tvg-name="21:00 FIVB Volleyball Women's Nations League Final: Teams TBA - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", CBS Sports Network USA
+#EXTINF:-1 tvg-id="Nations League Women final match - Italy W vs Brazil W" tvg-name="20:00 Nations League Women final match : Italy W vs Brazil W - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", CBS Sports Network USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-308.php
+
+#EXTINF:-1 tvg-id="Nations League Women final match - Italy W vs Brazil W" tvg-name="20:00 Nations League Women final match : Italy W vs Brazil W - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Arena Premium 3 Serbia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-139.php
+
+#EXTINF:-1 tvg-id="Nations League Women final match - Italy W vs Brazil W" tvg-name="20:00 Nations League Women final match : Italy W vs Brazil W - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", MAX Sport 2 Bulgaria
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-473.php
+
+#EXTINF:-1 tvg-id="Nations League Women final match - Italy W vs Brazil W" tvg-name="20:00 Nations League Women final match : Italy W vs Brazil W - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sport Klub 3 Croatia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
 
 #EXTINF:-1 tvg-id="World Championship in Water Sports. Haydaying. Men. - World Championship in Water Sports. Haydaying. Men." tvg-name="05:00 World Championship in Water Sports. Haydaying. Men. - 27/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water Sports", Match TV Russia
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-127.php
