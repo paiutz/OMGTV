@@ -3,8 +3,8 @@
     "proxy_url": "https://ale-1-7fk5.onrender.com/proxy/mpd/manifest.m3u8?api_password=gf4&d=https://linear202-de-dash1-prd-ak.cdn12.skycdp.com/035111-50/index_stereo.mpd%3F%26ck%3DMDAwYjMyNjVlMWY5ZDUyMzc0YzZjNDcwNWEyNThmN2E6ZDIyM2UwZmVjNTVlMGEyMjM0NGQxY2FjYjhjZDI4NTU%3D&key_id=000b3265e1f9d52374c6c4705a258f7a&key=d223e0fec55e0a22344d1cacb8cd2855",
     "info": {
       "category": "CALCIO",
-      "title": "AMICHEVOLI",
-      "date": "MERCOLEDI 30 LUGLIO",
+      "title": "SUPERCOPPA PORTOGHESE",
+      "date": "GIOVEDI 31 LUGLIO",
       "event": "12:30 Yokohama F. Marinos - Liverpool",
       "channel": "Sky Sport",
       "language": "",
@@ -15,12 +15,24 @@
     "proxy_url": "https://ale-1-7fk5.onrender.com/proxy/mpd/manifest.m3u8?api_password=gf4&d=https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd&key_id=ddf7a6d83eb05ab48a757b638244af57&key=720eb820e035ebe9f9a84e9f258282a1,96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66,7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79",
     "info": {
       "category": "CALCIO",
-      "title": "AMICHEVOLI",
-      "date": "MERCOLEDI 30 LUGLIO",
-      "event": "13:00 K-league Stars - Newcastle",
+      "title": "SUPERCOPPA PORTOGHESE",
+      "date": "GIOVEDI 31 LUGLIO",
+      "event": "13:30 Arsenal - Tottenham",
       "channel": "Arena Sport",
-      "language": "de",
+      "language": "nl",
       "url": "https://thisnot.business/player.php?id=ArenaSP1_ME"
+    }
+  },
+  "https://thisnot.business/player.php?id=SportTV4_PT": {
+    "proxy_url": "https://ale-1-7fk5.onrender.com/proxy/mpd/manifest.m3u8?api_password=gf4&d=https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE%2410/index.mpd/Manifest.mpd%3Fstart%3DLIVE%26end%3DEND%26device%3DDASH_AVC_FULLHD%26ck%3DY2MwYjdhYzMxYjVlNDJmOGJmOTM0Zjk5YWNmNzFhOGE6ZDc2NDI0ZDY0NGEzNjAwNTY1NjdhMjQ4ZDhiODliNmM%3D&key_id=cc0b7ac31b5e42f8bf934f99acf71a8a&key=d76424d644a360056567a248d8b89b6c",
+    "info": {
+      "category": "CALCIO",
+      "title": "SUPERCOPPA PORTOGHESE",
+      "date": "GIOVEDI 31 LUGLIO",
+      "event": "18:00 Strasbourg - Udinese",
+      "channel": "Sport•TV",
+      "language": "rs",
+      "url": "https://thisnot.business/player.php?id=SportTV4_PT"
     }
   },
   "https://thisnot.business/player.php?id=Dazn1amazon": {
