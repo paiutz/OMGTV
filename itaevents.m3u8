@@ -1,4 +1,64 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="SuperBikes Motoamerica Virginia - SuperBikes Motoamerica Virginia" tvg-name="18:00 SuperBikes Motoamerica Virginia - 01/08/ly" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-110.php
+
+#EXTINF:-1 tvg-id="GCW - ID Showcase 2025" tvg-name="22:00 GCW: ID Showcase 2025 - 01/08/ly" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-151.php
+
+#EXTINF:-1 tvg-id="NCL 56 - Thunderstruck 3" tvg-name="22:30 NCL 56: Thunderstruck 3 - 01/08/ly" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-152.php
+
+#EXTINF:-1 tvg-id="2025 NAPA SK 5K at Stafford Speedway - 2025 NAPA SK 5K at Stafford Speedway" tvg-name="23:30 2025 NAPA SK 5K at Stafford Speedway - 01/08/ly" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-153.php
+
+#EXTINF:-1 tvg-id="2025 NASCAR Dirt Modifieds at Autodrome Granby - 2025 NASCAR Dirt Modifieds at Autodrome Granby" tvg-name="00:20 2025 NASCAR Dirt Modifieds at Autodrome Granby - 01/08/ly" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-154.php
+
+#EXTINF:-1 tvg-id="2025 USAC Indiana Sprint Week at Bloomington Speedway - 2025 USAC Indiana Sprint Week at Bloomington Speedway" tvg-name="00:30 2025 USAC Indiana Sprint Week at Bloomington Speedway - 01/08/ly" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-155.php
+
+#EXTINF:-1 tvg-id="2025 Thunder on the Thruway at Utica-Rome Speedway - 2025 Thunder on the Thruway at Utica-Rome Speedway" tvg-name="00:45 2025 Thunder on the Thruway at Utica-Rome Speedway - 01/08/ly" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-156.php
+
+#EXTINF:-1 tvg-id="World of Outlaws Late Models Cedar Lake - World of Outlaws Late Models Cedar Lake" tvg-name="00:50 World of Outlaws Late Models Cedar Lake - 01/08/ly" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-157.php
+
+#EXTINF:-1 tvg-id="EFW - Adrenaline 10" tvg-name="01:00 EFW: Adrenaline 10 - 01/08/ly" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-158.php
+
+#EXTINF:-1 tvg-id="Williams Grove Sprint Cars - Williams Grove Sprint Cars" tvg-name="01:00 Williams Grove Sprint Cars - 01/08/ly" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-159.php
+
+#EXTINF:-1 tvg-id="360 Knoxville Nationals - 360 Knoxville Nationals" tvg-name="01:15 360 Knoxville Nationals - 01/08/ly" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-160.php
+
+#EXTINF:-1 tvg-id="World of Outlaws Sprint Cars - World of Outlaws Sprint Cars" tvg-name="01:15 World of Outlaws Sprint Cars - 01/08/ly" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-161.php
+
+#EXTINF:-1 tvg-id="500 Sprint Car Tour Kalamazoo - 500 Sprint Car Tour Kalamazoo" tvg-name="01:20 500 Sprint Car Tour Kalamazoo - 01/08/ly" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-162.php
+
+#EXTINF:-1 tvg-id="Belleville 305 Nationals - Belleville 305 Nationals" tvg-name="01:30 Belleville 305 Nationals - 01/08/ly" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-163.php
+
+#EXTINF:-1 tvg-id="2025 IMCA Weekly Racing at Marshalltown Speedway - 2025 IMCA Weekly Racing at Marshalltown Speedway" tvg-name="01:45 2025 IMCA Weekly Racing at Marshalltown Speedway - 01/08/ly" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-164.php
+
+#EXTINF:-1 tvg-id="House of Glory - High Intensity 2025" tvg-name="02:00 House of Glory: High Intensity 2025 - 01/08/ly" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-165.php
+
+#EXTINF:-1 tvg-id="GCW - Hit Em Up 2025" tvg-name="02:00 GCW: Hit Em Up 2025 - 01/08/ly" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-166.php
+
+#EXTINF:-1 tvg-id="Budo Striking Vol 30 - Budo Striking Vol 30" tvg-name="03:00 Budo Striking Vol 30 - 01/08/ly" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-167.php
+
+#EXTINF:-1 tvg-id="Urijah Faber's A1 Combat 29 - Maximov vs. Indio" tvg-name="04:00 Urijah Faber's A1 Combat 29: Maximov vs. Indio - 01/08/ly" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", UFC Fight Pass
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-168.php
+
+#EXTINF:-1 tvg-id="Budo Sento Championship Vol 30 - Budo Sento Championship Vol 30" tvg-name="05:30 Budo Sento Championship Vol 30 - 01/08/ly" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-169.php
+
 #EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Bohemians vs Drogheda United" tvg-name="20:45 Ireland Republic - Premier Division : Bohemians vs Drogheda United - 01/08/ly" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LOITV
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-77.php
 
