@@ -456,6 +456,9 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/18766170987dd5e
 #EXTINF:-1 tvg-id="skyprimafila15.it" tvg-name="Sky Primafila 15" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 15 (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/911168573d54b185731b5&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skyprimafila16.it" tvg-name="Sky Primafila 16" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 16 (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/191150052585174f4ea582&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skyprimafila17.it" tvg-name="Sky Primafila 17" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 17 (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1284441949890c3c5c3d9d&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -586,9 +589,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/22890389722acc4
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/55828211836e421b20575&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skytg24.it" tvg-name="Sky Tg 24" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="Notizie;Sky",SKY TG 24 (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/33760313550167605877f1&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skytg24.it" tvg-name="Sky Tg 24 (2)" tvg-logo="" group-title="Notizie;Sky",SKY TG 24 (V) (2)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3180571288b987548e3fe&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky",SKY UNO (V)
@@ -650,4 +650,7 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3171202588cf85e
 
 #EXTINF:-1 tvg-id="wwechannel.it" tvg-name="Wwe Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Discovery",WWE CHANNEL (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="zonadazn.it" tvg-name="Zona Dazn" tvg-logo="https://www.digital-news.it/img/palinsesti/2023/12/1701423631-zona-dazn.webp" group-title="Sport",ZONA DAZN (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/291117845637cc65891f64&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
