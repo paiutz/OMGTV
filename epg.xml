@@ -60587,16 +60587,6 @@ David Guetta - The Alphabeat</desc>
     <desc lang="it">British Premiership Oxford Spires - Kings Lynn Stars</desc>
     <category lang="it">Motorsport</category>
   </programme>
-  <programme start="20250825000000 +0200" stop="20250825080000 +0200" channel="wuhanopenwuhanopenround1">
-    <title lang="it">Inizia alle 08:00.</title>
-    <desc lang="it">Wuhan Open Wuhan Open | Round 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250825080000 +0200" stop="20250825100000 +0200" channel="wuhanopenwuhanopenround1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Wuhan Open Wuhan Open | Round 1</desc>
-    <category lang="it">Snooker</category>
-  </programme>
   <programme start="20250825000000 +0200" stop="20250825133000 +0200" channel="wuhanopenwuhanopenround1">
     <title lang="it">Inizia alle 13:30.</title>
     <desc lang="it">Wuhan Open Wuhan Open | Round 1.</desc>
